@@ -1,6 +1,7 @@
 import pandas as pd
+import numpy as np
+
 shots = pd.read_csv('datasets/shots.csv')
-#print(shots.shape)
 
 # get the data dictionary for the dataset
 ddurl = "http://peter-tanner.com/moneypuck/downloads/MoneyPuck_Shot_Data_Dictionary.csv"
