@@ -16,8 +16,8 @@ def play(player):
         bet = input("You do not have enough money, please place another bet.")
     bet = int(bet)
 
-    dealer = [ran.randint(1, 11), ran.randint(1, 11)]
-    hand = [ran.randint(1, 11), ran.randint(1, 11)]
+    dealer = [ran.randint(2, 11), ran.randint(2, 11)]
+    hand = [ran.randint(2, 11), ran.randint(2, 11)]
     print("Dealers Visible Card:")
     print(dealer[1])
     print("Your Cards:")
@@ -34,8 +34,12 @@ def play(player):
             choice = input()
             choice = int(choice)
             if (choice == 1):
-                card = ran.randint(1, 11)
+                card = ran.randint(2, 11)
                 hand.append(card)
+                if (handTot(hand) > 21):
+                    for i in range(len(hand)):
+                        if (hand[i] == 11 and handTot(hand) + card > 21):
+                            hand[i] = 1
                 str = "Your hand: {} = {}"
                 print(str.format(hand, handTot(hand)))
                 print()
@@ -51,11 +55,11 @@ def play(player):
 
     str = "Your hand is {} = {}, The dealer had {} = {} "
     print(str.format(hand, handTot(hand), dealer, handTot(dealer)))
-    if (handTot(hand) > handTot(dealer) and handTot(hand) < 22 and handTot(dealer) < 22):
+    if ((handTot(hand) > handTot(dealer) and handTot(hand) < 22 and handTot(dealer) < 22) or (handTot(dealer) > 21 and handTot(hand)<22 )):
         str = "You won {}"
         print(str.format(bet))
         player = player + bet
-    elif (handTot(dealer) > 21 or handTot(dealer) == handTot(hand)):
+    elif ((handTot(dealer) > 21 and handTot(hand)) or handTot(dealer) == handTot(hand)):
         str = "You tied and get your money back"
         print(str)
     else:
