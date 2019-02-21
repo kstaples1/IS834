@@ -1,0 +1,680 @@
+user_id,status_id,created_at,text,source,favorite_count,retweet_count,lang,followers_count,friends_count,statuses_count,account_lang,account_created_at,tags
+1269440827,1055353687747543042,2018-10-25T07:01:41Z,When the numbers don’t tell the whole story - https://t.co/pXb14jnuOd #rstats,IFTTT,0,1,en,1459,268,18846,fr,2013-03-15T10:53:53Z,rstats
+1269440827,1055353684505362434,2018-10-25T07:01:40Z,Create a Glossary in R Markdown - https://t.co/Jd778Ttdv8 #rstats,IFTTT,0,1,en,1459,268,18846,fr,2013-03-15T10:53:53Z,rstats
+1269440827,1055592874866290690,2018-10-25T22:52:07Z,Getting started Stamen maps with ggmap - https://t.co/3VNNYQpiKS #rstats,IFTTT,0,1,en,1459,268,18846,fr,2013-03-15T10:53:53Z,rstats
+1269440827,1055489559264460807,2018-10-25T16:01:35Z,How DataCamp Handles Course Quality - https://t.co/O6fQccMMwz #rstats,IFTTT,0,1,en,1459,268,18846,fr,2013-03-15T10:53:53Z,rstats
+1269440827,1055770288770695169,2018-10-26T10:37:06Z,Popular Halloween Candy on US State Grid Map - https://t.co/v4WkgG4Ztu #rstats,IFTTT,0,1,en,1459,268,18846,fr,2013-03-15T10:53:53Z,rstats
+1269440827,1055481923064291328,2018-10-25T15:31:15Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics - https://t.co/RIUen5xXIU #rstats",IFTTT,0,1,en,1459,268,18846,fr,2013-03-15T10:53:53Z,rstats
+1269440827,1055625592278802437,2018-10-26T01:02:08Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 3: Layouts - https://t.co/Cbqz7pY54u #rstats",IFTTT,0,1,en,1459,268,18846,fr,2013-03-15T10:53:53Z,rstats
+961691888939126784,1055400840335376384,2018-10-25T10:09:03Z,"World Cup 2018 
+Top 10 Players: Passing From Inside of the Box 
+
+Example of how powerful and simple the dplyr package is
+
+#SBdata #rstats #dplyr https://t.co/HSLxQTMPlt",Twitter Web Client,29,6,en,2570,363,719,en,2018-02-08T20:03:08Z,SBdata|rstats|dplyr
+287836809,1055490043882729473,2018-10-25T16:03:31Z,How DataCamp Handles Course Quality via #rbloggers #rstats #datascience https://t.co/iaMoqxsQG5,IFTTT,0,3,en,2425,2810,7055,en,2011-04-25T19:32:57Z,rbloggers|rstats|datascience
+287836809,1055595694998851590,2018-10-25T23:03:20Z,Getting started Stamen maps with ggmap via #rbloggers #rstats #datascience https://t.co/SrzdJUGMly,IFTTT,1,2,en,2425,2810,7055,en,2011-04-25T19:32:57Z,rbloggers|rstats|datascience
+287836809,1055625885112590336,2018-10-26T01:03:18Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 3: Layouts via #rbloggers #rstats #datascience https://t.co/zpd5Uq3Yzo",IFTTT,0,1,en,2425,2810,7055,en,2011-04-25T19:32:57Z,rbloggers|rstats|datascience
+287836809,1055758001578106881,2018-10-26T09:48:17Z,Popular Halloween Candy on US State Grid Map via #rbloggers #rstats #datascience https://t.co/DvhKUTa0BM,IFTTT,1,1,en,2425,2810,7055,en,2011-04-25T19:32:57Z,rbloggers|rstats|datascience
+287836809,1055482403953750017,2018-10-25T15:33:09Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics via #rbloggers #rstats #datascience https://t.co/zHbcHlTbKL",IFTTT,0,2,en,2425,2810,7055,en,2011-04-25T19:32:57Z,rbloggers|rstats|datascience
+18238982,1055595091501428736,2018-10-25T23:00:56Z,"Posted by kjytay, now on R-bloggers: Getting started Stamen maps with ggmap #rstats https://t.co/o8aes5oGT1",IFTTT,0,1,en,916,821,22598,de,2008-12-19T09:55:42Z,rstats
+18238982,1055758505507020800,2018-10-26T09:50:17Z,"Posted by R on Chi's Impe[r]fect Blog, now on R-bloggers: Popular Halloween Candy on US State Grid Map #rstats https://t.co/asQbC5o6rq",IFTTT,0,1,en,916,821,22598,de,2008-12-19T09:55:42Z,rstats
+18238982,1055791454671519744,2018-10-26T12:01:13Z,"Posted by John Mount, now on R-bloggers: Designing Transforms for Data Reshaping with cdata #rstats https://t.co/oqOTmINjrf",IFTTT,0,1,en,916,821,22598,de,2008-12-19T09:55:42Z,rstats
+18238982,1055493503051010048,2018-10-25T16:17:15Z,"Posted by Richie Cotton, now on R-bloggers: How DataCamp Handles Course Quality #rstats https://t.co/lEzmlQ8371",IFTTT,0,1,en,916,821,22598,de,2008-12-19T09:55:42Z,rstats
+18238982,1055626458180263936,2018-10-26T01:05:34Z,"Posted by Mel Moreno and Mathieu Basille, now on R-bloggers: Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 3: Layouts #rstats https://t.co/YuwpFoIvW9",IFTTT,0,1,en,916,821,22598,de,2008-12-19T09:55:42Z,rstats
+18238982,1055464734387044352,2018-10-25T14:22:56Z,"So, up to now, the submitted sessions for @SQLBits 'can and will sql your data', obviously with power in your database server and the use of azure. :-) Curious to see how that develops for the selected ones... #sqlbits #rstats https://t.co/vdBycvQMiX",TweetDeck,2,1,en,916,821,22598,de,2008-12-19T09:55:42Z,sqlbits|rstats
+18238982,1055482166958833666,2018-10-25T15:32:13Z,"Posted by Mel Moreno and Mathieu Basille, now on R-bloggers: Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics #rstats https://t.co/O5Kdj0h1tJ",IFTTT,0,1,en,916,821,22598,de,2008-12-19T09:55:42Z,rstats
+1269383796,1055592434497974272,2018-10-25T22:50:23Z,Getting started Stamen maps with ggmap - https://t.co/NYFFIij97d #rstats,IFTTT,0,1,en,2136,242,11944,fr,2013-03-15T10:33:24Z,rstats
+1269383796,1055482697429274624,2018-10-25T15:34:19Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics - https://t.co/rnSBKjAV2e #rstats",IFTTT,2,1,en,2136,242,11944,fr,2013-03-15T10:33:24Z,rstats
+1269383796,1055490194743459848,2018-10-25T16:04:07Z,How DataCamp Handles Course Quality - https://t.co/9VasIkF1EW #rstats,IFTTT,0,1,en,2136,242,11944,fr,2013-03-15T10:33:24Z,rstats
+1269383796,1055791354222129152,2018-10-26T12:00:49Z,Designing Transforms for Data Reshaping with cdata - https://t.co/F6y8Sq7OdC #rstats,IFTTT,0,1,en,2136,242,11944,fr,2013-03-15T10:33:24Z,rstats
+1269383796,1055758509474766849,2018-10-26T09:50:18Z,Popular Halloween Candy on US State Grid Map - https://t.co/nLsrLE6Dqb #rstats,IFTTT,0,1,en,2136,242,11944,fr,2013-03-15T10:33:24Z,rstats
+1269383796,1055626616683016192,2018-10-26T01:06:12Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 3: Layouts - https://t.co/gCN79lYSrD #rstats",IFTTT,1,1,en,2136,242,11944,fr,2013-03-15T10:33:24Z,rstats
+722214536460173312,1055791153830916097,2018-10-26T12:00:01Z,"Hands-On Machine Learning and its related books - interesting &amp; informative interactive visualization
+#MachineLearning #DeepLearning #DataScience #Python #rstats #finance
+https://t.co/ldK67QFIRF  via @mattmayo13 https://t.co/DJzhkCNoND",Sprinklr,0,2,en,8228,772,4702,en,2016-04-19T00:05:38Z,MachineLearning|DeepLearning|DataScience|Python|rstats|finance
+10915042,1055791001309270018,2018-10-26T11:59:25Z,"See how to make quick interactive tables with the DT #rstats package: My latest Do More With R video screencast https://t.co/62j9JiH2el
+
+Article with video and code: https://t.co/3CrvRqNRBI https://t.co/cdCdq2KM62",Twitter Web Client,1,1,en,5975,755,11356,en,2007-12-06T20:46:28Z,rstats
+1269972008,1055484438757425153,2018-10-25T15:41:14Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics - https://t.co/ZqsMpk2gBE #rstats",IFTTT,0,1,en,1425,318,19946,fr,2013-03-15T15:22:43Z,rstats
+1269972008,1055757972088020993,2018-10-26T09:48:10Z,Popular Halloween Candy on US State Grid Map - https://t.co/QYjWIQyT52 #rstats,IFTTT,0,1,en,1425,318,19946,fr,2013-03-15T15:22:43Z,rstats
+1269972008,1055491966320996352,2018-10-25T16:11:09Z,How DataCamp Handles Course Quality - https://t.co/gVAi0Ff5sG #rstats,IFTTT,0,1,en,1425,318,19946,fr,2013-03-15T15:22:43Z,rstats
+1269972008,1055790700581871616,2018-10-26T11:58:13Z,Designing Transforms for Data Reshaping with cdata - https://t.co/w4cAng0Za6 #rstats,IFTTT,0,1,en,1425,318,19946,fr,2013-03-15T15:22:43Z,rstats
+1269972008,1055591911157915649,2018-10-25T22:48:18Z,Getting started Stamen maps with ggmap - https://t.co/uhOB5YxegO #rstats,IFTTT,0,1,en,1425,318,19946,fr,2013-03-15T15:22:43Z,rstats
+1269972008,1055625863612514304,2018-10-26T01:03:13Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 3: Layouts - https://t.co/Rl0cJkH4Tj #rstats",IFTTT,1,1,en,1425,318,19946,fr,2013-03-15T15:22:43Z,rstats
+1270025862,1055592620859277312,2018-10-25T22:51:07Z,Getting started Stamen maps with ggmap #rstats https://t.co/wHRTHLikM2,IFTTT,0,1,en,2067,293,16502,fr,2013-03-15T15:52:11Z,rstats
+1270025862,1055757488723771392,2018-10-26T09:46:14Z,Popular Halloween Candy on US State Grid Map #rstats https://t.co/JFfQ4zSiF3,IFTTT,0,1,en,2067,293,16502,fr,2013-03-15T15:52:11Z,rstats
+1270025862,1055625468890808320,2018-10-26T01:01:39Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 3: Layouts #rstats https://t.co/Z6axdEt74G",IFTTT,2,1,en,2067,293,16502,fr,2013-03-15T15:52:11Z,rstats
+1270025862,1055790239409676288,2018-10-26T11:56:23Z,Designing Transforms for Data Reshaping with cdata #rstats https://t.co/5mRMV4eMcA,IFTTT,0,1,en,2067,293,16502,fr,2013-03-15T15:52:11Z,rstats
+1270025862,1055489967915495424,2018-10-25T16:03:13Z,How DataCamp Handles Course Quality #rstats https://t.co/AbX2qa6enC,IFTTT,0,1,en,2067,293,16502,fr,2013-03-15T15:52:11Z,rstats
+1270025862,1055482405774155778,2018-10-25T15:33:10Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics #rstats https://t.co/w1Ln73fBff",IFTTT,0,2,en,2067,293,16502,fr,2013-03-15T15:52:11Z,rstats
+144592995,1055489251662589952,2018-10-25T16:00:22Z,How DataCamp Handles Course Quality https://t.co/tDIE1dhFY3 #rstats #DataScience,r-bloggers.com,7,3,en,63138,36,19163,en,2010-05-16T19:15:16Z,rstats|DataScience
+144592995,1055591165104398336,2018-10-25T22:45:20Z,Getting started Stamen maps with ggmap https://t.co/h9IASDjxy2 #rstats #DataScience,r-bloggers.com,21,5,en,63138,36,19163,en,2010-05-16T19:15:16Z,rstats|DataScience
+144592995,1055625141252775936,2018-10-26T01:00:20Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 3: Layouts https://t.co/1xJMlhb9v8 #rstats #DataScience",r-bloggers.com,59,21,en,63138,36,19163,en,2010-05-16T19:15:16Z,rstats|DataScience
+144592995,1055474180651663361,2018-10-25T15:00:29Z,"Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics https://t.co/nLqhFq3edS #rstats #DataScience",r-bloggers.com,189,64,en,63138,36,19163,en,2010-05-16T19:15:16Z,rstats|DataScience
+144592995,1055754771884322816,2018-10-26T09:35:27Z,Popular Halloween Candy on US State Grid Map https://t.co/gFRJpePHhK #rstats #DataScience,r-bloggers.com,6,2,en,63138,36,19163,en,2010-05-16T19:15:16Z,rstats|DataScience
+144592995,1055788877640695808,2018-10-26T11:50:58Z,Designing Transforms for Data Reshaping with cdata https://t.co/ZlezwxUtZm #rstats #DataScience,r-bloggers.com,5,5,en,63138,36,19163,en,2010-05-16T19:15:16Z,rstats|DataScience
+701540016,1055788541446369280,2018-10-26T11:49:38Z,"#Python dünyanın en popüler kodlama dili haline geldiğini söylüyor 
+Oysaki #Rstats #opensource açık ara fark yaratıyor #DataLabTResearch
+(I've highlighted it in orange below) 
+
+@TheEconomist Python is becoming the world's most popular coding language https://t.co/oTJwS3QF0p … https://t.co/5N9EXYGiqy",Twitter Web Client,2,1,tr,1128,1117,16715,tr,2012-07-17T18:31:22Z,Python|Rstats|opensource|DataLabTResearch
+15940287,1055785329423196162,2018-10-26T11:36:52Z,Just wanna give another shoutout to @MilesMcBain for his work on the datapasta package! Such a neat time saver and pragmatic tool for those adhoc copy/paste operations that naturally crop up in experimental and mundane day to day data munging https://t.co/k7uKQgtPJY #rstats,Twitter Web Client,4,1,en,1657,1177,6753,en,2008-08-22T02:20:54Z,rstats
+10361342,1055784534418038784,2018-10-26T11:33:43Z,"Ayer publiqué dos cosas —mapa de Brasil y análisis del CIS—, y en las dos me echo un cable @borjandrinot extrayendo datos escurridizos. Lo del CIS, además, es un desarrollo que igual vamos creciendo. #rstats",Twitter Web Client,7,1,es,34062,934,59172,es,2007-11-18T18:45:53Z,rstats
+888468964652851201,1055782665524252672,2018-10-26T11:26:17Z,The calm before the #noreastr18 storm! #rstats https://t.co/thzQuSWKoZ,Twitter for Android,7,2,en,321,35,109,en,2017-07-21T18:41:22Z,noreastr18|rstats
+1037548569467731968,1055782520044818432,2018-10-26T11:25:42Z,"I've been fighting with some clusters on #R for a couple days. I just had a revelation about what is going on there! Finally!
+
+I've been using #rattle and #plotly to plot this.
+
+#rstats #DataScience",TweetDeck,1,2,en,69,107,112,en,2018-09-06T03:50:30Z,R|rattle|plotly|rstats|DataScience
+1037548569467731968,1055775257586528256,2018-10-26T10:56:51Z,"Tuve el gusto de estar en la charla y, sinceramente, fue excelente. ¡Totalmente recomendable para quienes quieran verla!
+
+#rstatsES #rstats #LatinR2018 https://t.co/m3BehEzGks",TweetDeck,4,2,es,69,107,112,en,2018-09-06T03:50:30Z,rstatsES|rstats|LatinR2018
+233585808,1055459615993937920,2018-10-25T14:02:36Z,CRAN updates: dae rem sitree solvebio spTimer stars totalcensus vegan3d https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055580303505453056,2018-10-25T22:02:10Z,CRAN updates: rlas SPUTNIK https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,da,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055368883488591872,2018-10-25T08:02:04Z,CRAN removals: SAMCpack https://t.co/t6KpMVXnWp #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055776584228130816,2018-10-26T11:02:07Z,CRAN updates: docopulae https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055384013140037632,2018-10-25T09:02:11Z,New CRAN package dhglm with initial version 2.0 https://t.co/0QdYpl5sce #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055353810514857984,2018-10-25T07:02:10Z,CRAN updates: PPCI https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,cs,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055701101478076421,2018-10-26T06:02:11Z,CRAN updates: circumplex https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055565198017421313,2018-10-25T21:02:09Z,CRAN updates: JuliaCall https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055731286646644736,2018-10-26T08:02:07Z,CRAN updates: rgsp https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055323677410115584,2018-10-25T05:02:26Z,CRAN updates: electoral ggplot2 microdemic np rscala texPreview https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,2,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055368906607599616,2018-10-25T08:02:09Z,New CRAN package mdhglm with initial version 1.8 https://t.co/0QdYpl5sce #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055685999311970304,2018-10-26T05:02:10Z,CRAN updates: cubature https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055746407469105152,2018-10-26T09:02:13Z,New CRAN package SAMCpack with initial version 0.1.1 https://t.co/0QdYpl5sce #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055384040365326336,2018-10-25T09:02:17Z,CRAN updates: cobalt compareDF rlang https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055504822588313603,2018-10-25T17:02:14Z,CRAN updates: PhenotypeSimulator rbison https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055746444207054853,2018-10-26T09:02:21Z,CRAN updates: esquisse FinePop slouch https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,1,2,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055716186447626240,2018-10-26T07:02:07Z,CRAN updates: BayesS5 https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055444429241311233,2018-10-25T13:02:15Z,CRAN updates: AgreementInterval MODIS ParallelLogger reactR https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+233585808,1055368936408129536,2018-10-25T08:02:16Z,CRAN updates: BAS vegan https://t.co/y5W2NTKSXT #rstats,CRANberries Feed,0,1,en,1180,0,31244,en,2011-01-03T16:28:56Z,rstats
+88845873,1055774638893084673,2018-10-26T10:54:23Z,"Hey #rstats, I'm running clmm out of Ordinal, and got this message: Variance-covariance matrix of the parameters is not defined, and then my std error, z, and p are all N/A.",Twitter Web Client,0,1,en,156,350,277,en,2009-11-10T03:58:36Z,rstats
+38301083,1055773896123641857,2018-10-26T10:51:26Z,That feeling when your work follows you on vacation #rstats https://t.co/urpoZlnhqR,Twitter for iPhone,3,1,en,177,274,413,en,2009-05-06T23:01:52Z,rstats
+2782755278,1055772364049391617,2018-10-26T10:45:21Z,"What's the best *free* geocode method in #rstats, at the moment? ggmap::geocode now requires the Google Maps API key. #GIS",Twitter Web Client,2,2,en,74,383,76,en,2014-08-31T18:51:21Z,rstats|GIS
+3867945679,1055770224782442496,2018-10-26T10:36:51Z,"@eoff_sylvia @MontyNishimura @BPerrionni @semicvet50 @BrindusaB1 @RitaCobix @Papryka5 @PasqualeTotaro @dianadep1 @GaiaGaudenzi @yebosfaye @Biagio960 @sergey_silkin @agustin_gut @monicasloves @huskorkut @scastaldi9 @torillo59 @albertopetro2 @piotr408 @henrirouen @Jilliemary @DuckLemon @francescofrong2 @ejlazar @nieuwemarlean @MomiraMonika @LuisaM56_ @duckylemon @pep_vilamala @longsight9a @EricJSwensson @MarionSpekker @marienassar_ @mhall55nine @MariangelaSant8 @marmelyr @maluisa_3 @hlcoatesmusic @rightwingleo2 @MojoBag4U @rosmarie1291 @sminaev2015 @peac4love @ERNESTZorro @LuciaTassan @neblaruz @elif_mat @YNHallak Trojan Horse🕵️‍♂️
+#futureofwork ❇️
+#AI #ML #DL #BigData #cloud #IoT #HPC #Programmers in demand for #Infosec #Cybersecurity #DigitalForensics #CyberForensics #100DaysOfCode #Python #java #keras #reactjs #VueJS #RStats #NoSQL #Scala #Linux #AWS
+#Careeradvice #MBA #MS #STEM
+🎨#Tiepolo https://t.co/FqG1vB5mxd",Twitter Web Client,28,26,en,18972,16768,933,en,2015-10-12T09:01:29Z,futureofwork|AI|ML|DL|BigData|cloud|IoT|HPC|Programmers|Infosec|Cybersecurity|DigitalForensics|CyberForensics|100DaysOfCode|Python|java|keras|reactjs|VueJS|RStats|NoSQL|Scala|Linux|AWS|Careeradvice|MBA|MS|STEM|Tiepolo
+4406202856,1055769812943683585,2018-10-26T10:35:13Z,"Google Cloud Platform: we only want your credit card so we know you’re not a bot. In fact we’re giving you $300 free credit and won’t charge you a cent after w/o permission.
+
+Me: what was that function: get_stamenmap()? 
+
+#rstats #ggmap #ggplot2",Twitter for iPhone,2,1,en,940,356,1422,en,2015-12-07T15:33:00Z,rstats|ggmap|ggplot2
+1011438486073872385,1055406385591128064,2018-10-25T10:31:05Z,gdtools - Useful tools for writing vector graphics devices. #rstats https://t.co/wor2S7WpUp,One R Package a Day,5,3,en,983,521,127,en,2018-06-26T02:38:21Z,rstats
+1011438486073872385,1055768676572581888,2018-10-26T10:30:42Z,pryr - Useful tools to pry back the covers of R and understand the language at a deeper level. #rstats https://t.co/vhBrX7Pa9j,One R Package a Day,2,1,en,983,521,127,en,2018-06-26T02:38:21Z,rstats
+150011568,1055735085155172352,2018-10-26T08:17:13Z,Me trying to download data pretty much from everywhere these days... #rstats #fml https://t.co/G6LfSUElAs,Twitter Web Client,2,1,en,2413,1024,17215,en,2010-05-30T20:53:31Z,rstats|fml
+150011568,1055767115012157440,2018-10-26T10:24:30Z,"Someone's here is not as happy as me about my #rstats session now.
+
+Btw, if you're into NLP (natural language processing) go and try the udpipe package. #Czechmade #goodstuff https://t.co/k4HHALEdVT",Twitter Lite,4,1,en,2413,1024,17215,en,2010-05-30T20:53:31Z,rstats|Czechmade|goodstuff
+150278011,1055765927155896320,2018-10-26T10:19:46Z,Gis processing in #rstats is slow e.g. using the Rgdal package is ten times or more slower than the command line utility https://t.co/cON0LY4fUE,Twitter Lite,2,1,en,610,534,5636,es,2010-05-31T14:45:49Z,rstats
+825120485520310273,1055761590363045889,2018-10-26T10:02:32Z,Yoooooo! An #rstats ggplot builder GUI! When did this happen? https://t.co/VhwBukxwkK,Twitter for Android,0,1,en,116,202,2219,en,2017-01-27T23:17:08Z,rstats
+1264593842,1055760101347254273,2018-10-26T09:56:37Z,"More than 800 packages added to CRAN in the last 30 days! Check the growth over the years via @plotlygraphs: https://t.co/5uGAX3ZYl3 
+#rstats https://t.co/2CdWDsyHny",Twitter Web Client,2,2,en,62,78,110,en,2013-03-13T14:22:19Z,rstats
+3044686542,1055446431539085312,2018-10-25T13:10:13Z,"#RStats — Getting census data from multiple states using tidycensus and purrr:
+https://t.co/ncR5PArlZQ https://t.co/WRLFWbvA7q",Hootsuite Inc.,9,6,en,2347,972,3188,fr,2015-02-26T21:33:46Z,RStats
+3044686542,1055433469516496897,2018-10-25T12:18:42Z,"#RStats #RStatsFR 
+ThinkR s'investit dans un Working Group du @RConsortium pour la création d'une certification R. On a besoin d'un petit coup de main de la communauté, pouvez-vous prendre 3 minutes pour répondre à l'enquête préparatoire ?
+https://t.co/nUeHkrl0fC
+Merci !",Twitter Web Client,4,6,fr,2347,972,3188,fr,2015-02-26T21:33:46Z,RStats|RStatsFR
+3044686542,1055491734803750914,2018-10-25T16:10:14Z,"GeoJSON Version of CBC Quebec Ridings Hex Cartograms with Example Usage in #RStats
+https://t.co/hTrFCfu48d https://t.co/7l3C249R81",Hootsuite Inc.,0,1,en,2347,972,3188,fr,2015-02-26T21:33:46Z,RStats
+3044686542,1055759712032079872,2018-10-26T09:55:05Z,"#RStats — Understanding the limitations of group-level inequality data 
+https://t.co/xo0545hQVU",Hootsuite Inc.,2,2,en,2347,972,3188,fr,2015-02-26T21:33:46Z,RStats
+1389317498,1055754570918440960,2018-10-26T09:34:39Z,New {esquisse} release on CRAN 🎉 ! Now support faceting &amp; {sf} objects ! By @dreamRs_fr ! #rstats #ggplot2 https://t.co/iDg3M70sJt https://t.co/f4LHgEPpsr,Twitter Web Client,17,11,en,393,525,396,fr,2013-04-29T11:44:38Z,rstats|ggplot2
+890677933,1055749924820840449,2018-10-26T09:16:11Z,@moritz_stefaner Technically it is more simular to https://t.co/0UOVsWyWnm #rstats,Twitter for Android,1,1,en,588,787,2060,nl,2012-10-19T10:02:13Z,rstats
+229909540,1055738304635830272,2018-10-26T08:30:01Z,Prendre qq minutes pour croiser les données #opendata de @BlaBlaCar_FR et celles de @arcep #monreseaumobile (couverture4G) et réaliser qq stats départementales (en 20 lignes de code avec #rstats #sf) https://t.co/570YII39Oe,TweetDeck,4,2,fr,688,421,12091,fr,2010-12-23T17:36:40Z,opendata|monreseaumobile|rstats|sf
+862314906544218114,1055737191702388736,2018-10-26T08:25:35Z,"...I just used #rstats to figure how many hours of sleep I got last night...man I must be going crazy. Also, I love how R-handles dates and times...once I got the hang of it 🤪",Twitter Web Client,2,1,en,968,1592,4509,en,2017-05-10T14:34:29Z,rstats
+200931163,1055734899896999937,2018-10-26T08:16:29Z,"Pequeñas joyitas de la mano de @aschinchon, de cuya presencia disfrutaremos en las @xjurum en menos de un mes #rstats https://t.co/b5EKKBQiDW",Twitter for Android,0,1,es,306,301,946,en,2010-10-10T17:20:28Z,rstats
+2670802124,1055729091809288193,2018-10-26T07:53:24Z,"One of the more straightforward primers on mixed models by @hivemindatwork. As always, the story is a bit more complex and you should get to know your data. When is the last time you took your data out for a drink, really got to konw them? #rstats  
+https://t.co/yPsRXu6wtv",Twitter Web Client,3,1,en,428,301,988,en-gb,2014-07-22T22:08:25Z,rstats
+3145295054,1055364588798205952,2018-10-25T07:45:00Z,"#Review of #DeepLearning A-Z™ Hands-On Artificial #NeuralNetworks 
+
+https://t.co/eto1VuzCwe 
+
+#DataScience #DataScientist #rstats #AI #ArtificialIntelligence #Analytics #BigData #IoT #tech #ML #dataviz #DataAnalytics #BI #BusinessIntelligence #IndustrialIoT #InternetOfThings",TweetDeck,8,8,en,24506,24480,28795,en,2015-04-08T20:34:37Z,Review|DeepLearning|NeuralNetworks|DataScience|DataScientist|rstats|AI|ArtificialIntelligence|Analytics|BigData|IoT|tech|ML|dataviz|DataAnalytics|BI|BusinessIntelligence|IndustrialIoT|InternetOfThings
+3145295054,1055726977343152128,2018-10-26T07:45:00Z,"#Review of #DeepLearning A-Z™ Hands-On Artificial #NeuralNetworks 
+
+https://t.co/eto1VuRdnM 
+
+#DataScience #DataScientist #rstats #AI #ArtificialIntelligence #Analytics #BigData #IoT #tech #ML #dataviz #DataAnalytics #BI #BusinessIntelligence #IndustrialIoT #InternetOfThings",TweetDeck,3,6,en,24506,24480,28795,en,2015-04-08T20:34:37Z,Review|DeepLearning|NeuralNetworks|DataScience|DataScientist|rstats|AI|ArtificialIntelligence|Analytics|BigData|IoT|tech|ML|dataviz|DataAnalytics|BI|BusinessIntelligence|IndustrialIoT|InternetOfThings
+500162083,1055721818739355648,2018-10-26T07:24:30Z,losep: a tiny R package to test seperation in binary classification models (via GLM) using linear programming https://t.co/JgzBTYcjmQ #rstats #orms https://t.co/PhWteru1F9,Twitter Web Client,3,2,en,866,36,2274,en,2012-02-22T21:27:51Z,rstats|orms
+222230786,1055721170429972480,2018-10-26T07:21:56Z,Intro to text mining workshop @satRdays_org #satrdays #satrdayBGD #rstats https://t.co/rpIoqFnJMx,Talon Android,2,1,en,195,173,999,en,2010-12-02T20:42:42Z,satrdays|satrdayBGD|rstats
+107048264,1055718735766523904,2018-10-26T07:12:15Z,"🎉New Oslo UseR! Meetup announcement🎉: ""How analysing football data made me fall in love with football again"" by @tojyouso 10 December 2018 Save the date!
+
+https://t.co/3gc9cx4QRq #UseR #Oslo #rstats",Twitter Web Client,2,1,en,604,391,6021,en,2010-01-21T12:14:46Z,UseR|Oslo|rstats
+107048264,1055499837125341184,2018-10-25T16:42:26Z,Impressive results and super important take-aways! #rstats https://t.co/XyU3PTmPkf,Twitter Web Client,3,1,en,604,391,6021,en,2010-01-21T12:14:46Z,rstats
+525654957,1055712037274349568,2018-10-26T06:45:38Z,This looks like a great #rstats resource (and a nice blog post from @IslaHMS and @gndaskalova too)! https://t.co/wDe6PGBTk2 https://t.co/MeWFvKK3J7,Twitter Web Client,0,2,en,83,119,327,en,2012-03-15T19:04:16Z,rstats
+2876078391,1055500610278166529,2018-10-25T16:45:30Z,"Haven't touched it in a while, but I've finally finished a simple first version of my first package!! :D this time, mostly thanks to #roxygen!
+
+Fun with #rstats :)
+#CodeNewbie
+https://t.co/47to7w21iq
+
+https://t.co/30uvoaBEVh",Twitter Web Client,8,5,en,603,810,1868,en,2014-11-14T06:58:18Z,roxygen|rstats|CodeNewbie
+2876078391,1055702125366427648,2018-10-26T06:06:15Z,"Good to know!
+
+Confidence intervals vs. Prediction intervals vs. Tolerance intervals
+https://t.co/UzU1cjdAGI
+
+So much to learn! :D #StatsNewbie #rstats",Twitter Web Client,2,1,en,603,810,1868,en,2014-11-14T06:58:18Z,StatsNewbie|rstats
+836526073340801024,1055689145794863114,2018-10-26T05:14:40Z,"A pleasure to be the opponent of the licenciate thesis 🎓 of @BenAllevius. He presented very interesting work including an outbreak detection method for zero-inflated data https://t.co/VgjSYIu3g3, and the #rstats pkgs scanstatistics and irregulAR1. Congratulations, Benjamin! 🎉 https://t.co/ogEWbEpAwT",Twitter Web Client,7,1,en,741,363,424,en,2017-02-28T10:38:52Z,rstats
+17858017,1055681449842622464,2018-10-26T04:44:05Z,Last one for tonight. Lincoln Park (zip 60614) #rstats https://t.co/aaGTacjjIK,TweetDeck,2,3,en,542,433,3414,en,2008-12-04T03:03:25Z,rstats
+17858017,1055679205667680256,2018-10-26T04:35:10Z,"Here's one of Back of the Yards (zip, 60609) #rstats https://t.co/cuzvfNl7KQ",TweetDeck,2,1,en,542,433,3414,en,2008-12-04T03:03:25Z,rstats
+17858017,1055687635962920960,2018-10-26T05:08:40Z,"Ok, this is really the last one: Pullman &amp; Roseland (Zip: 60628) #rstats https://t.co/9ITanm9tTZ",TweetDeck,0,1,en,542,433,3414,en,2008-12-04T03:03:25Z,rstats
+17858017,1055670667209834504,2018-10-26T04:01:15Z,A map of all the buildings in @CityofEvanston inspired by the @nytimes feature of all the buildings in the US. h/t @EvanTachovsky for the basic #rstats code. https://t.co/YPZIMmfuUO,TweetDeck,10,5,en,542,433,3414,en,2008-12-04T03:03:25Z,rstats
+974136656281374720,1055684467811995648,2018-10-26T04:56:05Z,"Password Guidance: Simplifying Your Approach via UK's National Cyber Security Center #Infographic
+#CyberSecurity #InformationSecurity #DeepLearning #KSQL #MQTT #IoT #Sensor #BigData #Analytics #MachineLearning #DataScience #AI #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS https://t.co/tpgBANGucE",Twitter Web Client,6,6,en,1701,1798,2706,en,2018-03-15T04:14:12Z,Infographic|CyberSecurity|InformationSecurity|DeepLearning|KSQL|MQTT|IoT|Sensor|BigData|Analytics|MachineLearning|DataScience|AI|IIoT|RStats|TensorFlow|Java|JavaScript|ReactJS
+19429174,1055411956276842498,2018-10-25T10:53:13Z,the act of writing a three of four sentence git commit message that explained the commit and the current bug in what I  had just committed helped me reason and find the cause and solution to the bug!  my #rstats #gitwin for the day.,Twitter Web Client,6,1,en,826,1981,4609,en,2009-01-24T02:54:11Z,rstats|gitwin
+19429174,1055563873799946241,2018-10-25T20:56:53Z,"High quality paged reports with rmarkdown - my dream of the whole performance report coming from R is one step closer #rstats . It seems you don’t have to be called Romain to be a gun French male R programmer, but it helps. https://t.co/vAIhp5Dlu9",Twitter for iPhone,4,2,en,826,1981,4609,en,2009-01-24T02:54:11Z,rstats
+19429174,1055681386105851904,2018-10-26T04:43:50Z,"It works (number of users = 1)! Set up a git remote on a network share drive and push/pull from local c drive #rstats #gitwin 
+https://t.co/Bw6WQF12ez https://t.co/6Ia79wJ1Pk",Twitter Web Client,3,1,en,826,1981,4609,en,2009-01-24T02:54:11Z,rstats|gitwin
+1033898865655599104,1055673691126685696,2018-10-26T04:13:16Z,"I'm looking for advice on adopting a consistent naming convention for my variables etc in R. Everything's turning into a mess, long names and changing names is obviously not helpful. Any resources or advice out there? #phdlife #rstats @rstudiotips @Rbloggers @rstudio",Twitter for Android,0,2,en,53,97,72,en,2018-08-27T02:07:53Z,phdlife|rstats
+19675099,1055672400556126209,2018-10-26T04:08:08Z,Upcoming #seattle meetup: The machine learning workflow in R with #mlflow https://t.co/kFCUIUm6P3 #Meetup via @Meetup #datascience #rstats,Twitter Web Client,3,1,en,600,117,585,en,2009-01-28T20:52:16Z,seattle|mlflow|Meetup|datascience|rstats
+719865592258379776,1055671974469480448,2018-10-26T04:06:26Z,"@EmilyRiederer Well, learning #rstats and R programming as a whole feels like an antidepressant to me. I dont think i find a lot of wrong with the ""emotions"" part.",Mobile Web (M2),0,1,en,97,313,6524,en,2016-04-12T12:31:46Z,rstats
+3060892573,1055671199529787392,2018-10-26T04:03:22Z,"Why Does the C Programming Language Refuse to Die? #BigData #Analytics #DataScience #IoT #IIoT #C #CPP #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #VueJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming  
+https://t.co/LwElScktjc  HT @gp_pulipaka",Twitter Web Client,6,13,en,948,1079,1371,en,2015-03-04T05:37:21Z,BigData|Analytics|DataScience|IoT|IIoT|C|CPP|Python|RStats|TensorFlow|Java|JavaScript|ReactJS|VueJS|GoLang|CloudComputing|Serverless|DataScientist|Linux|Programming
+2567686548,1055668637351129089,2018-10-26T03:53:11Z,Just for fun -- overwrite `?` to summarize a variable (replace names with head/summary/my_summary_function to fit your use case) #rstats https://t.co/98uXNfa3eE,Twitter Web Client,5,1,en,115,398,2051,en,2014-06-14T20:00:40Z,rstats
+2744012874,1055668312443641856,2018-10-26T03:51:53Z,"Can anyone point me to a resource that explains the math/statistics behind scuba diving tables? Dive books have the chemistry/physics, but stop short of actual table construction #rstats @J0shStwrt @MeganCook33",Twitter for iPhone,0,1,en,984,302,3222,en,2014-08-19T05:08:57Z,rstats
+899092129540132864,1055663712365883394,2018-10-26T03:33:36Z,"Maybe it is too late but I do find this #cheatsheet very helpful~ especially to those who (like me) prefer to use traditional plot in R than using #ggplot2
+#rstats #rstudio #visualization 
+
+https://t.co/cee8Tl6l7b",Twitter Web Client,2,2,en,254,345,566,en,2017-08-20T02:14:02Z,cheatsheet|ggplot2|rstats|rstudio|visualization
+899092129540132864,1055527923564863488,2018-10-25T18:34:02Z,It took me like 4 hours to make this bull's eye scale for a bubble plot~ How could it be so difficult!? #rstats #InFish https://t.co/rSaIkyh3b3,Twitter Web Client,1,1,en,254,345,566,en,2017-08-20T02:14:02Z,rstats|InFish
+20509869,1055626578330349569,2018-10-26T01:06:03Z,“The best way to get to quality is quantity”. “The best way to make a great graph is to make 1000 bad graphs” #TidyTuesday #rstats #datascience @hadleywickham https://t.co/4UAK8jUvoA,Twitter for iPhone,169,36,en,1207,489,1201,en,2009-02-10T12:29:44Z,TidyTuesday|rstats|datascience
+20509869,1055658073266839552,2018-10-26T03:11:12Z,Awesome time exploring #TidyTuesday data lead by @hadleywickham. Here looking at movie distributor gross: production spend ratios by total movies created.  #rstats https://t.co/6ZPRVAZ78J,Twitter Web Client,8,1,en,1207,489,1201,en,2009-02-10T12:29:44Z,TidyTuesday|rstats
+334461893,1055656783325356033,2018-10-26T03:06:04Z,Misspoke in a presentation yesterday about learning #rstats “through emotion” instead of “through immersion”. But upon reflection was I really wrong? 🤔❤️,Twitter Lite,18,1,en,988,1254,557,en,2011-07-13T04:02:53Z,rstats
+408580973,1055656674516762625,2018-10-26T03:05:39Z,"When you’re cruising along in model selection, add more data, and your top models lose all their support. #phdlife #rstats https://t.co/zIEppYDSAP",Twitter for iPhone,3,1,en,645,495,9350,en,2011-11-09T16:23:09Z,phdlife|rstats
+987645988037976065,1055292892212854786,2018-10-25T03:00:06Z,"Today's #rstats cheatsheet: data import
+Download: https://t.co/zznJ5T3ZUT
+See more: https://t.co/KgJ4eggU4l
+Contribute your own: https://t.co/KLVFg0ougL https://t.co/jKNJnZ2EWk",daily_r_cheatsheets,4,2,en,316,4,190,en,2018-04-21T10:55:27Z,rstats
+987645988037976065,1055655279075962880,2018-10-26T03:00:06Z,"Today's #rstats cheatsheet: datatable
+Download: https://t.co/PPGeZPxaOL
+See more: https://t.co/KgJ4eggU4l
+Contribute your own: https://t.co/KLVFg0ougL https://t.co/qhQm7t45aM",daily_r_cheatsheets,1,1,en,316,4,190,en,2018-04-21T10:55:27Z,rstats
+161182490,1055654620767371264,2018-10-26T02:57:29Z,Amigas de #rstats https://t.co/u2MyhzRtHv,Twitter Lite,0,1,es,111,600,465,es,2010-06-30T05:33:40Z,rstats
+21463039,1055652291552911360,2018-10-26T02:48:14Z,"@StatsInTheWild @JakePortanova @revodavid On a funny  note, I first typed ""FALSE"" and ""TRUE"" by force of habit because of #rstats, then realized it looked like I was shouting :)",Twitter Web Client,1,1,en,175,290,294,en,2009-02-21T04:22:21Z,rstats
+70651912,1055652270325489664,2018-10-26T02:48:08Z,"If I have a model log(y) = b + e, is there a standard name for the back-transformed residual standard deviation exp(s)-1? #rstats",Twitter Web Client,0,1,en,967,1824,39148,en,2009-09-01T10:53:42Z,rstats
+3320523836,1055651979555418112,2018-10-26T02:46:59Z,"@RLadiesAustin As if I needed more of an excuse to go to a social gathering of women discussing #rstats, the one and only @hadleywickham was there to show off his (rusty) coding skills 😅😛.(@ClausWilke was also in attendance!)",Twitter for Android,5,2,en,150,490,703,en,2015-08-19T19:07:45Z,rstats
+16019456,1055649419570212864,2018-10-26T02:36:49Z,"Mood: I don't know, but maybe I can learn it. #rstats",Twitter for Android,5,1,en,466,1974,2562,en,2008-08-27T23:35:43Z,rstats
+16019456,1055451848948285440,2018-10-25T13:31:44Z,"Hey #rstats, any resources/recommendations around client clustering using only factor variables?",Twitter for Android,0,2,en,466,1974,2562,en,2008-08-27T23:35:43Z,rstats
+25859467,1055649226573656065,2018-10-26T02:36:03Z,"Ears perked up when I heard @hadleywickham mention @code2college as a beneficiary of an upcoming #tidyverse Austin event in Jan 2019 during tonight’s @RLadiesAustin event! Great choice, Hadley!
+
+Maybe @RStudio could even get some C2C students passes to rstudio::conf2019? #rstats",Twitter for iPhone,6,3,en,872,1989,6051,en,2009-03-22T18:55:50Z,tidyverse|rstats
+568495005,1055647064594546689,2018-10-26T02:27:27Z,"Free eBooks from PacktPub for #DataScience, #MachineLearning, #DeepLearning, and #Hadoop: https://t.co/3Auw4z57Tv #abdsc
+
+#BigData #AI #TensorFlow #Algorithms #Rstats https://t.co/jhWPuZKkpC",IFTTT,1,2,en,1251,1311,2145,en,2012-05-01T18:07:50Z,DataScience|MachineLearning|DeepLearning|Hadoop|abdsc|BigData|AI|TensorFlow|Algorithms|Rstats
+568495005,1055647048735830016,2018-10-26T02:27:24Z,"R, Python, and Julia — becoming a #coding Polyglot: https://t.co/pnfXC4XUqr #abdsc #BigData #DataScience #DataScientists #MachineLearning #Rstats #Python #JuliaLang 
+
+Source for graphic: https://t.co/BcObmweJP1 https://t.co/pt97LFQn4U",IFTTT,0,2,en,1251,1311,2145,en,2012-05-01T18:07:50Z,coding|abdsc|BigData|DataScience|DataScientists|MachineLearning|Rstats|Python|JuliaLang
+568495005,1055649068645580800,2018-10-26T02:35:25Z,"Top 20 R libraries for #DataScience in 2018: https://t.co/CY043Dao6C #abdsc #BigData #MachineLearning #AI #DataScientists #Coding #DeepLearning #NLProc #DataViz #Rstats #Statistics 
+#Infographic by ActiveWizards https://t.co/DX5n0RMEek",IFTTT,2,3,en,1251,1311,2145,en,2012-05-01T18:07:50Z,DataScience|abdsc|BigData|MachineLearning|AI|DataScientists|Coding|DeepLearning|NLProc|DataViz|Rstats|Statistics|Infographic
+72069738,1055639413890400256,2018-10-26T01:57:03Z,@RLadiesAustin  An Evening with Hadley Wickham!  #Rstats #RLadies #ATXdata #dellmedicalschool https://t.co/JlCF0zxpyW,Twitter for iPhone,5,3,en,69,151,193,en,2009-09-06T16:33:49Z,Rstats|RLadies|ATXdata|dellmedicalschool
+72069738,1055648604453507073,2018-10-26T02:33:34Z,#RLadies #ATXdata  #rstats #dataanalysis An evening with Hadley Wickham #dellmedicalschool https://t.co/9tT5JbyPjV,Twitter for iPhone,6,2,en,69,151,193,en,2009-09-06T16:33:49Z,RLadies|ATXdata|rstats|dataanalysis|dellmedicalschool
+534563976,1055646725585690624,2018-10-26T02:26:07Z,"Free eBooks from @PacktPub for #DataScience, #MachineLearning, #DeepLearning, and #Hadoop: https://t.co/2qKl0m7png #abdsc
+
+#BigData #AI #TensorFlow #Algorithms #Rstats https://t.co/hWVVhmc9lE",Twitter Web Client,24,10,en,211315,29886,92019,en,2012-03-23T16:35:17Z,DataScience|MachineLearning|DeepLearning|Hadoop|abdsc|BigData|AI|TensorFlow|Algorithms|Rstats
+534563976,1055648510320799744,2018-10-26T02:33:12Z,"Top 20 R libraries for #DataScience in 2018: https://t.co/BNaMF6Cpyh #abdsc #BigData #MachineLearning #AI #DataScientists #Coding #DeepLearning #NLProc #DataViz #Rstats #Statistics 
+#Infographic by @ActiveWizards https://t.co/2NUDVsnyC6",Twitter Web Client,38,39,en,211315,29886,92019,en,2012-03-23T16:35:17Z,DataScience|abdsc|BigData|MachineLearning|AI|DataScientists|Coding|DeepLearning|NLProc|DataViz|Rstats|Statistics|Infographic
+534563976,1055645317050368001,2018-10-26T02:20:31Z,"R, Python, and Julia — becoming a #coding Polyglot: https://t.co/iMpkD1gLyG #abdsc #BigData #DataScience #DataScientists #MachineLearning #Rstats #Python #JuliaLang 
+
+Source for graphic: https://t.co/67Fu5WYHd9 https://t.co/pnnqMxTCQk",Twitter Web Client,23,22,en,211315,29886,92019,en,2012-03-23T16:35:17Z,coding|abdsc|BigData|DataScience|DataScientists|MachineLearning|Rstats|Python|JuliaLang
+192679212,1055646182242951170,2018-10-26T02:23:57Z,"Hey #rstats tweeps, any idea why changes made in @rstudio to files hosted on a @gsuite/@googledrive Drive File Stream are not visible in @github desktop until I close @rstudio? I know, it's a convoluted question, but I figured it wouldn't hurt to ask around.",TweetDeck,0,1,en,2712,1245,11558,en,2010-09-19T21:12:18Z,rstats
+12306,1055643547251003392,2018-10-26T02:13:29Z,"""Drawing beautiful maps programmatically with #Rstats, #sf and #ggplot2"". Basics: https://t.co/jlLbj87p0n Layers: https://t.co/ZzHBMIi6AW and Layouts: https://t.co/a4clWDve4B 👏👏👏 #mapporn",Twitter Web Client,3,2,en,866,129,23898,en,2006-11-13T23:22:18Z,Rstats|sf|ggplot2|mapporn
+12306,1055640598865047552,2018-10-26T02:01:46Z,"@farmgeek Shouldn't be that complicated. For example,
+library(magick)
+bugs &lt;- image_read('insects.jpg')
+bugs %&gt;% image_modulate(brightness = 200, saturation = 0) %&gt;% 
+  image_blur(5, 5) %&gt;% image_contrast(sharpen = 1)
+
+in #Rstats produces: https://t.co/UwDoJye9uR",Twitter Web Client,4,1,en,866,129,23898,en,2006-11-13T23:22:18Z,Rstats
+3298807784,1055642308530630656,2018-10-26T02:08:33Z,Such solid advice but so hard to practice! I always get carried away #rstats #phdchat https://t.co/OjbQ5AQ7mo,Twitter for Android,0,2,en,506,635,919,en,2015-07-27T22:24:25Z,rstats|phdchat
+4625742192,1055640194127462403,2018-10-26T02:00:09Z,"Not a code whiz? No problem! You can still use #rstats to do simple table manipulations - just follow these steps!
+https://t.co/AHl2XQHR8a https://t.co/TAgfVWCpjk",Buffer,0,1,en,320,402,561,en,2015-12-21T23:12:49Z,rstats
+3302663672,1055635063256174592,2018-10-26T01:39:46Z,"my favorite implementation of randomForest: take some students to a new place in the woods and dig a hole. #DataScience #rstats 
+
+Thanks to @pierreroudier for the actual joke, I only supply the photos here. https://t.co/fEL0aEEqzG",Twitter Web Client,13,4,en,345,57,304,en,2015-07-31T17:45:00Z,DataScience|rstats
+110413359,1055634416825851904,2018-10-26T01:37:12Z,Had a really tough crash course on regex with stringr on a project and I'm pretty sure I'll not know what they mean within a week. Really looking forward to trying rebus for strings in the future. #rstats,Twitter for Android,1,1,en,70,177,13019,en,2010-02-01T13:15:12Z,rstats
+1823987821,1055633126964125697,2018-10-26T01:32:04Z,"Here we go! Live from Korea: https://t.co/wsOVLWb8Ro
+
+@rOpenSci #rstats https://t.co/I8QIGkR7q4",Twitter for Android,75,4,en,1879,543,6194,en,2013-09-08T09:54:48Z,rstats
+1447698906,1055633018021392384,2018-10-26T01:31:38Z,"As a cognitive psychology student, it was heartening to hear @hadleywickham highlight ""understanding of cognitive psychology"" as the number one way to improve one's data visualization skills. #rstats #RLadiesAustin",Twitter Web Client,19,3,en,149,270,125,en,2013-05-22T01:56:13Z,rstats|RLadiesAustin
+1309056440,1055631753287614465,2018-10-26T01:26:37Z,"Anyone want a 15x speed increase in #mapdeck #rstats ?
+
+With the release of `library(jsonify)` and the update to `library(geojsonsf)`, getting the coordinates from #sf objects is now ridiculously quick.  That's my weekend sorted
+
+https://t.co/KNDNlzQ4Mz https://t.co/R3hajx6Czd",Twitter Lite,12,5,en,418,681,873,en,2013-03-28T01:09:48Z,mapdeck|rstats|sf
+215035672,1055615423234875392,2018-10-26T00:21:43Z,"""Start with something simple, get it to work, then iterate."" 
+
+Solid programming advice from @hadleywickham #rstats",Twitter Web Client,38,9,en,6595,1266,5751,en,2010-11-12T21:02:39Z,rstats
+215035672,1055631462622478337,2018-10-26T01:25:28Z,"Of the hour that @hadleywickham has been live coding his way through a data exploration, about 85% of the time has been spent using ggplot to visualize various slices of data -- a great example of how important #dataviz is for understanding new datasets. #rstats #r4ds",Twitter Web Client,159,21,en,6595,1266,5751,en,2010-11-12T21:02:39Z,dataviz|rstats|r4ds
+215035672,1055622969416994816,2018-10-26T00:51:43Z,Fun easter egg in the #rstats ggplot2 diamonds dataset: https://t.co/RVDgqHqgKd,Twitter Web Client,4,2,en,6595,1266,5751,en,2010-11-12T21:02:39Z,rstats
+215035672,1055618764631367680,2018-10-26T00:35:00Z,"Just learned about COMMAND + SHIFT + R shortcut in @rstudio to add a new section. Thanks, @hadleywickham 🤯 #rstats #r4ds https://t.co/59jlyjGUts",Twitter Web Client,102,18,en,6595,1266,5751,en,2010-11-12T21:02:39Z,rstats|r4ds
+2242949269,1055630028002586624,2018-10-26T01:19:45Z,Day 1 of WSU @datacarpentry in the books! It’s always so exciting to see people taking their first steps in R and with other reproducible techniques! #rstats,Twitter for iPhone,7,1,en,332,1107,1805,en,2013-12-12T21:33:50Z,rstats
+4085610382,1055627291932409856,2018-10-26T01:08:53Z,"Brilliant article on how to get hired as a Data Scientist
+https://t.co/DVtZnESzEO
+#DataScience #analytics #MachineLearning #rstats #phdchat",Twitter Web Client,7,14,en,529,896,381,en,2015-10-31T22:19:16Z,DataScience|analytics|MachineLearning|rstats|phdchat
+959922860293873664,1055626369827266560,2018-10-26T01:05:13Z,"""The only way to make a really good graph is to make 1,000 really shitty graphs"" -@hadleywickham #Rstats #iteration",Twitter Web Client,9,3,en,14,1,6546,en,2018-02-03T22:53:39Z,Rstats|iteration
+959922860293873664,1055323089096052739,2018-10-25T05:00:06Z,New false positive! Current false positive rate = 0.034 alpha = .05 #rstats,Spurious Correlations,1,1,en,14,1,6546,en,2018-02-03T22:53:39Z,rstats
+959922860293873664,1055549579171651585,2018-10-25T20:00:05Z,New false positive! Current false positive rate = 0.034 alpha = .05 #rstats,Spurious Correlations,1,1,en,14,1,6546,en,2018-02-03T22:53:39Z,rstats
+895026127676342278,1055617755599200257,2018-10-26T00:31:00Z,"A, A+2, A+4 (A&gt;3),  Can all of these three integers be prime?
+#mathematics #Physics #DataScience #science  #algebra #Calculus  #numbertheory #quantum #statistics #rstats  #mathchat #probability  #primenumbers #math #QuantumComputing #STEM #mathfun #mathquiz 
+#COMC #CMS #Numbers",Twitter Web Client,6,4,en,309,156,183,en,2017-08-08T20:57:12Z,mathematics|Physics|DataScience|science|algebra|Calculus|numbertheory|quantum|statistics|rstats|mathchat|probability|primenumbers|math|QuantumComputing|STEM|mathfun|mathquiz|COMC|CMS|Numbers
+35914010,1055616057384337409,2018-10-26T00:24:15Z,"Quick hack to format individual cells in an R Markdown table: call kable() from the console to create raw HTML/CSS. Then copy THIS code into your Rmd script and manually edit the CSS, e.g. color: red; font-weight: bold; Good one-off fix #rstats https://t.co/FanrpP7pAg",Twitter Web Client,0,2,en,167,1309,127,en,2009-04-28T00:00:13Z,rstats
+1042518909222617088,1055614682520846338,2018-10-26T00:18:47Z,Analysing 'raw' GPS Data....How to produce a minute by minute breakdown of a session through 10Htz GPS data #GPS #SportScience #DataAnalytics #rstats https://t.co/sMwtV3P81a https://t.co/yhxa7j6mR5,WordPress.com,6,3,en,647,805,61,en,2018-09-19T21:00:51Z,GPS|SportScience|DataAnalytics|rstats
+891619862329647105,1055613581075664897,2018-10-26T00:14:24Z,"Una muy breve introducción, en español, sobre cómo construir mapas en #R haciendo uso de Google Maps.
+https://t.co/EswFjU8T4y
+#DataScience 
+#dataviz 
+#Datavisualization 
+#data
+#rstats https://t.co/8aMvJrvml4",Twitter Web Client,14,5,es,383,14,278,es,2017-07-30T11:21:55Z,R|DataScience|dataviz|Datavisualization|data|rstats
+911262145198874624,1055608879810338818,2018-10-25T23:55:43Z,@RLadiesAustin An Evening with Hadley Wickham! #Rstats #RLadies #ATXdata https://t.co/kJimt7Lbik,Twitter for iPhone,8,5,en,737,1517,2487,en,2017-09-22T16:13:20Z,Rstats|RLadies|ATXdata
+1324960710,1055521358988247040,2018-10-25T18:07:57Z,"data.table vs. dplyr in Split Apply Combine Style Analysis
+
+https://t.co/RtnCdg6EC7
+
+Still a good article (results remain similar now)! #Rstats #dplyr #data.table",TweetDeck,3,1,en,2011,1999,2970,en,2013-04-03T16:36:40Z,Rstats|dplyr|data
+1324960710,1055608700491067392,2018-10-25T23:55:01Z,"Designing Transforms for Data Reshaping with cdata
+https://t.co/zjtrF0iOK5
+#rstats #cdata #datascience #datawrangling https://t.co/elw2IbA1Nk",TweetDeck,0,1,en,2011,1999,2970,en,2013-04-03T16:36:40Z,rstats|cdata|datascience|datawrangling
+725006657424490496,1055608606324744192,2018-10-25T23:54:38Z,"Designing Transforms for Data Reshaping with cdata
+https://t.co/ndHXwVsKQz
+#rstats #cdata #datascience #datawrangling https://t.co/W3Liu5KrRB",TweetDeck,1,1,en,577,854,806,en,2016-04-26T17:00:31Z,rstats|cdata|datascience|datawrangling
+2300329224,1055607109407059969,2018-10-25T23:48:41Z,"Had a confusing conversation with a midwestener about the #rstats package ""crayon"" and the CRAN package repository.",Twitter Web Client,30,5,en,477,740,1193,en,2014-01-19T21:05:25Z,rstats
+4263007693,1055603718207496193,2018-10-25T23:35:13Z,"Python Telegram Bot. #BigData #Analytics #DataScience #Chatbots #Telgrambots #NLProc #NLU #NLG #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #VueJS #GoLang #CloudComputing #Serverless #DataScientist #Linux 
+https://t.co/cWCz27oflb https://t.co/9JIpYT1BDW",Buffer,5,8,cy,47626,28269,41638,en,2015-11-17T02:19:09Z,BigData|Analytics|DataScience|Chatbots|Telgrambots|NLProc|NLU|NLG|IoT|IIoT|Python|RStats|TensorFlow|Java|JavaScript|ReactJS|VueJS|GoLang|CloudComputing|Serverless|DataScientist|Linux
+4263007693,1055601918108688384,2018-10-25T23:28:04Z,"DemonBot Discovered going after #Hadoop Enterprise Servers. #BigData #Analytics #MachineLearning #DataScience #AI #CyberSecurity #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #VueJS #GoLang #CloudComputing #Serverless #DataScientist #Linux
+https://t.co/FKZKR2Nb5o https://t.co/0moaMdJfZo",Buffer,7,17,en,47626,28269,41638,en,2015-11-17T02:19:09Z,Hadoop|BigData|Analytics|MachineLearning|DataScience|AI|CyberSecurity|IoT|IIoT|Python|RStats|TensorFlow|JavaScript|ReactJS|VueJS|GoLang|CloudComputing|Serverless|DataScientist|Linux
+4263007693,1055601418021888003,2018-10-25T23:26:04Z,"TensorFlow: Machine Learning Framework for Everyone. #BigData #Analytics #DeepLearning #MachineLearning #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #VueJS #GoLang #CloudComputing #Serverless #DataScientist #Linux  
+https://t.co/MqLK5qcmWH https://t.co/XiL4XmwtZV",Buffer,7,19,en,47626,28269,41638,en,2015-11-17T02:19:09Z,BigData|Analytics|DeepLearning|MachineLearning|DataScience|AI|IoT|IIoT|Python|RStats|TensorFlow|Java|JavaScript|ReactJS|VueJS|GoLang|CloudComputing|Serverless|DataScientist|Linux
+4263007693,1055602970321141760,2018-10-25T23:32:14Z,"ThreadX integration with Azure IoT Hub. #BigData #Analytics #MachineLearning #DataScience #AI #CyberSecurity #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #VueJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Azure  
+https://t.co/cRWiPbP2PJ https://t.co/ZQPafHt05l",Buffer,2,14,en,47626,28269,41638,en,2015-11-17T02:19:09Z,BigData|Analytics|MachineLearning|DataScience|AI|CyberSecurity|IoT|IIoT|Python|RStats|TensorFlow|Java|JavaScript|ReactJS|VueJS|GoLang|CloudComputing|Serverless|DataScientist|Linux|Azure
+4263007693,1055602480866832385,2018-10-25T23:30:18Z,"NeuralFunk - Combining Deep Learning with Sound Design. #BigData #Analytics #DeepLearning #MachnineLearning #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #VueJS #GoLang #CloudComputing #Serverless #DataScientist #Linux 
+https://t.co/IlmLDbZMDN https://t.co/1tJ2AIQYgd",Buffer,13,15,en,47626,28269,41638,en,2015-11-17T02:19:09Z,BigData|Analytics|DeepLearning|MachnineLearning|DataScience|AI|IoT|IIoT|Python|RStats|TensorFlow|Java|JavaScript|ReactJS|VueJS|GoLang|CloudComputing|Serverless|DataScientist|Linux
+279406752,1055602916692762624,2018-10-25T23:32:02Z,Does macOS Mojave break java settings  (namely jdbc stuff) for #rstats like every other OS update? Or is it safe for me to upgrade?,Twitter for Android,0,1,en,67,352,951,en,2011-04-09T06:07:42Z,rstats
+14629263,1055602401770651650,2018-10-25T23:29:59Z,It's starting soon! #rstats #tidytuesday @R4DScommunity https://t.co/xLPBe2Zbu8,Twitter for Android,5,2,en,444,352,9948,en,2008-05-02T18:25:50Z,rstats|tidytuesday
+1001511262545592320,1055591591275061249,2018-10-25T22:47:01Z,"And #rstats beginners: I've found in my experience that you'll learn Git faster if you sit down with someone who knows what they're doing and have them walk you through the steps.
+
+Don't be afraid to ask someone to show you what to do. It'll help them understand it better too!",TweetDeck,9,1,en,3365,66,486,en,2018-05-29T17:11:06Z,rstats
+1001511262545592320,1055480601728507905,2018-10-25T15:25:59Z,"You know what's fun? Autocomplete function() templates in @rstudio! 😮
+
+#rstats power user tip: Type ""fun"" and get a formatted snippet of code to fill in. Just press TAB 3 times and you're done. There are other snippets, too (and you can customize them)!
+
+https://t.co/hI4yHvGy3l https://t.co/CuZDbaO8vf",TweetDeck,48,10,en,3365,66,486,en,2018-05-29T17:11:06Z,rstats
+210514107,1055588122094911488,2018-10-25T22:33:14Z,@NEON_sci @MeganAHJones @dr_lunch It was a good part of my Thursday too!! Making maps with @NEON_sci #rstats https://t.co/J3A3HIqLhu,Twitter for iPhone,2,1,en,122,197,1803,en,2010-10-31T16:24:04Z,rstats
+210514107,1055567348751568896,2018-10-25T21:10:42Z,Just finished teaching an hour long intro to spatial data in R session for a bunch of undergrads using an adapter @NEON_sci tutorial! They rocked it!! #Rstats,Twitter for iPhone,8,2,en,122,197,1803,en,2010-10-31T16:24:04Z,Rstats
+36602303,1055586300991025152,2018-10-25T22:26:00Z,"Aquí, por comanda de la @Sofia_RamirezA, un análisis de Asignación Latente de Dirichlet con todas las notas de un medio durante 5 años. #rstats #textmining https://t.co/yqOt4WLxdE",Twitter Web Client,4,3,es,1675,3394,29528,es,2009-04-30T05:12:15Z,rstats|textmining
+36602303,1055498399728971776,2018-10-25T16:36:43Z,En mi última entrega para #DesarmarlaCorrupción escribo sobre el Programa de Coinversión Social de @Indesol https://t.co/ucr9xKk3U3 #rstats #data,Twitter Web Client,4,1,es,1675,3394,29528,es,2009-04-30T05:12:15Z,DesarmarlaCorrupción|rstats|data
+108899342,1055585802485358592,2018-10-25T22:24:01Z,OMG how did I not know about this?? Getting mathematical notation into #rstats plots has been an ongoing headache for years. This is brilliant! 💃💕 https://t.co/hM02VZ7zFb,Twitter Lite,57,13,en,2167,287,1633,en,2010-01-27T10:35:43Z,rstats
+1414449710,1055585639452749824,2018-10-25T22:23:22Z,Great tip from @GuyProchilo! Learn something new every day #rstats https://t.co/7jS67aISO1,Twitter for Android,3,1,en,365,820,1445,en,2013-05-09T03:19:28Z,rstats
+2912292714,1055580063335215104,2018-10-25T22:01:13Z,What equations in your #rstats plots?  If you are familiar with #latex then I can highly recommend trying the #latex2exp package https://t.co/qeOUWsCTra 👍⌨️π,Twitter Web Client,40,13,en,212,153,111,en,2014-11-28T02:50:02Z,rstats|latex|latex2exp
+15652379,1055573841034919936,2018-10-25T21:36:29Z,"hey #rstats universe, I'm looking for an example of someone using nest() with psych::describe to draw summary status from a bunch of grouped samples. Any help or pointers?
+
+@rstudio @rstudiotips @dataandme ?",Twitter Web Client,0,1,en,477,322,9385,en,2008-07-29T22:13:59Z,rstats
+709818571942002689,1055572805234896896,2018-10-25T21:32:23Z,"My first time leading an R workshop &amp; it wasn’t a disaster! Today I lead plant pathologists ranging from undergrads to academic staff in learning basics of R &amp; data manipulation, analysis, &amp; visualization. Thank you to @SydneyEverhart for the workshop materials &amp; support👩🏻‍💻#rstats https://t.co/px2Dexq5MC",Twitter for iPhone,35,4,en,526,618,416,en,2016-03-15T19:08:30Z,rstats
+98278172,1055571694797156353,2018-10-25T21:27:58Z,Hoy descubrí cómo hacer parallel computing en #rstats y es el salto tecnológico más importante que he tenido desde que aprendí a prender una computadora.,Twitter for iPhone,1,1,es,234,149,5496,es,2009-12-21T04:00:24Z,rstats
+2859870375,1055571435366899720,2018-10-25T21:26:56Z,#rstats R package for Converting base graphics plots to ggplot (and grob) objects https://t.co/JNghaZImLN,Twitter Web Client,3,1,en,71,84,1084,fr,2014-11-04T03:56:49Z,rstats
+2749957084,1055570834520264709,2018-10-25T21:24:33Z,"""There are only two hard things in computer science: cache invalidation and naming things.""
+-- Phil Karton
+#RPackages
+
+Naming Packages too!
+Thinking about a good package name for chemometrics
+#rstats 😟",Twitter Web Client,1,1,en,48,55,86,es,2014-08-22T03:02:33Z,RPackages|rstats
+1040295127225384960,1055569690687356928,2018-10-25T21:20:00Z,Thanks @kaitlinmgold for a great workshop on Introduction to R for Plant Pathologists! This was extremely helpful &amp; I hope more workshops like this are available to grad students unfamiliar (&amp; sometimes scared) of #rstats 😬#️⃣💻,Twitter for Android,10,1,en,58,116,26,en,2018-09-13T17:44:20Z,rstats
+445002965,1055569456976588800,2018-10-25T21:19:04Z,"Need #stats help - how to calculate ICC(3,1) mentioned by Will Hopkins (https://t.co/DGFV8iPChW) in R? What package to use? I have been using ""icc"" from ""irr"" package (see image). #rstats #stats #statistics #reliability https://t.co/WzHMNuPriX",Twitter Web Client,8,2,en,15908,2826,11320,en,2011-12-23T22:12:21Z,stats|rstats|stats|statistics|reliability
+63406968,1055568164996702213,2018-10-25T21:13:56Z,"#rstats help! For #ggplot2 ggplot(data, aes(x, y)) - how do you plot 'y' if it's simply the total =n count? I know you can plot with just x + fill but y seems to be important for adding further aes, annoyingly.",Twitter Web Client,1,1,en,1765,996,12134,en,2009-08-06T07:33:07Z,rstats|ggplot2
+159846289,1055566628220530688,2018-10-25T21:07:50Z,"@JennyBryan from @rstudio  was one of the reasons  why @LatinR2018 was great, check her keynote talk ""Zen And The aRt Of Workflow Maintenance"" https://t.co/4IVGDnKrio 
+We want more talks like this in #LatAm!!! #rstats #RLatAmCommunity",Twitter Web Client,13,5,en,779,415,1129,es,2010-06-26T13:44:10Z,LatAm|rstats|RLatAmCommunity
+589535421,1055563707005030400,2018-10-25T20:56:13Z,"Here, for those interested, is our analysis, including #rstats code
+https://t.co/tGIxVptZ43",Twitter Web Client,4,3,en,7164,2272,11817,en,2012-05-24T21:53:47Z,rstats
+971375869758443520,1055562012728512512,2018-10-25T20:49:29Z,"Les diapos de la rencontre de tout à l'heure sont disponibles ! 👍
+https://t.co/232SyZnbT1
+
+- Datavisualisation automatique de grand jeux de données
+- Petits pièges du langage R
+#Rstats #RstatsFR",Twitter Web Client,3,6,fr,75,47,52,fr,2018-03-07T13:23:49Z,Rstats|RstatsFR
+4833796360,1055559475346726913,2018-10-25T20:39:24Z,#RStudio #RStats https://t.co/4FN4J7tWta,TweetDeck,3,3,und,84,116,303,es,2016-01-22T01:08:59Z,RStudio|RStats
+876611150879744001,1055556491380318208,2018-10-25T20:27:33Z,"Creating a 🔥 map with #rstats has been a blast. The code is nasty but the outcome is... getting there.
+
+NB. Value/colour does NOT represent time spent in the zone 😉
+
+NB. Based on relatively small dataset for testing.
+
+Any suggestions? https://t.co/KuCuQ5vyvX",Twitter for iPhone,8,2,en,178,198,242,en,2017-06-19T01:22:39Z,rstats
+2216572952,1055430724130652163,2018-10-25T12:07:48Z,"MetaGenyo: a web tool for meta-analysis of genetic association studies
+
+https://t.co/twOtLRXU7d
+#rstats",Twitter Web Client,1,3,en,325,534,33515,it,2013-11-26T21:53:52Z,rstats
+2216572952,1055533074107240448,2018-10-25T18:54:30Z,"Bifactor ESEM in R (provisional codes)
+#rstats
+https://t.co/5BaPfPEZGL",Twitter Web Client,0,1,ro,325,534,33515,it,2013-11-26T21:53:52Z,rstats
+2216572952,1055553975527899136,2018-10-25T20:17:33Z,"That was - how can I say? - ""necessary""...
+
+Make It Pretty: Scree Plots and Parallel Analysis Using psych and ggplot2
+https://t.co/AbIAQxlvq9
+
+#rstats
+#ggplot2",Twitter Web Client,1,1,en,325,534,33515,it,2013-11-26T21:53:52Z,rstats|ggplot2
+466463499,1055553863762223104,2018-10-25T20:17:07Z,Things I do with #rstats instead watching TV (code available at https://t.co/CMSW65GE4l) https://t.co/d4b2FMs3ph,Twitter Web Client,42,7,en,1565,601,4399,es,2012-01-17T12:44:58Z,rstats
+21711700,1055553166647844864,2018-10-25T20:14:20Z,"Remember! For a sizable number of new #rstats users, it won't even *occur* to them that managing &amp; updating R installation &amp; pkgs over time is something they have to do, until something breaks 6mos into their journey. It's just not on their mental radar.",Twitter Web Client,22,5,en,295,352,3097,en,2009-02-24T00:21:31Z,rstats
+229564414,1055550035646124037,2018-10-25T20:01:54Z,"@dkopf Probably can't fit it all in a tweet, but... If learning #rstats for working with data, strongly recommend a data first approach à la https://t.co/cEu7Bay1uF, and then moving on to learning about R as a programming language. Also, read error messages, out loud 📣",Twitter Web Client,10,1,en,6858,566,3285,en,2010-12-22T18:45:58Z,rstats
+3306992047,1055548471057498113,2018-10-25T19:55:41Z,and work locally and/or on the cloud. #noteToFutureSelf #rstats,Twitter Web Client,0,1,en,673,858,710,en,2015-08-05T13:17:20Z,noteToFutureSelf|rstats
+3306992047,1055432771647225858,2018-10-25T12:15:56Z,"papaja (@FrederikAust's fantastic package for writing apa papers in R Markdown) works in R-studio cloud! Almost right out of the box. I had to put the apa6.cls file in the root folder for the paper. R-studio cloud projects are shareable, could be useful for collaboration #rstats",Twitter Web Client,18,4,en,673,858,710,en,2015-08-05T13:17:20Z,rstats
+781588026258432000,1055548077342449664,2018-10-25T19:54:07Z,Google changing the requirement for an API key has really messed up my plan to make maps today. Can't get #rstats ggmap() or #QGIS to grab a satellite baselayer.,Twitter Web Client,0,1,en,124,331,1162,en,2016-09-29T20:14:41Z,rstats|QGIS
+1068951084,1055542221812973569,2018-10-25T19:30:51Z,"Give back to the tools you love—become a NumFOCUS member! 
+
+https://t.co/VzMNYvjnl8
+
+#python #pydata #julialang #rstats #bayesian #bigdata #machinelearning #dataviz #openscience #opendata #opensource #datascience https://t.co/RXSCZ4m1an",SocialOomph,1,4,en,11260,1010,8213,en,2013-01-07T18:32:45Z,python|pydata|julialang|rstats|bayesian|bigdata|machinelearning|dataviz|openscience|opendata|opensource|datascience
+957509173,1055546912152129536,2018-10-25T19:49:29Z,Mandada la propuesta para Digital Stylistics de Würzburg. Ahora a esperar la respuesta... #estilometría #7PartidasDigital #rstats,Twitter for iPad,1,1,ca,636,100,5520,es,2012-11-19T14:09:23Z,estilometría|7PartidasDigital|rstats
+47699335,1055545615298359296,2018-10-25T19:44:20Z,Help me #rstats users. Working on a story about how best to learn R. What are your recommendations?,Twitter Web Client,7,4,en,1871,344,1559,en,2009-06-16T18:23:55Z,rstats
+282815200,1055543484365574145,2018-10-25T19:35:52Z,"A new version of my analogue #paleo #rstats pkg is now on CRAN
+
+https://t.co/af2CiedyY2
+
+ * now works with the recent release of the princurve pkg for fitting principal curves
+ * fixes a severe bug in join() that mangled the column ordering
+ * NAMPD updated to v 1.7-3",TweetDeck,18,5,en,3212,1675,21532,en,2011-04-16T00:22:32Z,paleo|rstats
+17495153,1055539428339269632,2018-10-25T19:19:45Z,"I have 2 free tickets available for any technologists interested in attending @noreastrconf tomorrow where my awesome colleague @revodavid will be doing a session on Minecraft, R, and Containers. My DMs are open, feel free to reach out! #rstats",Twitter Web Client,4,4,en,205,553,197,en,2008-11-19T20:46:34Z,rstats
+273781698,1055539125862981632,2018-10-25T19:18:33Z,"2/3 I had this idea on the back burner for a while, but @BrodieGaslam's post this morning motivated me to stop wasting people’s CPU cycles and finally implement it… #rstats #rayshader 
+
+https://t.co/pZGHtw75gb",Twitter Web Client,3,1,en,1168,66,681,en,2011-03-29T04:29:30Z,rstats|rayshader
+273781698,1055539123375796227,2018-10-25T19:18:32Z,"1/3 ‼️Big under-the-hood update to #rayshader! Just updated the ray intersection algorithm so it uses a binary search, leading to a substantial speed increase when raytracing (VERY substantial in some cases).  #rstats https://t.co/mDwQnkyEPl",Twitter Web Client,38,7,en,1168,66,681,en,2011-03-29T04:29:30Z,rayshader|rstats
+273781698,1055539128052432908,2018-10-25T19:18:33Z,"3/3 Check out the latest version on the github page: #rstats #rayshader
+
+https://t.co/cmgqPN2Ylx",Twitter Web Client,5,2,en,1168,66,681,en,2011-03-29T04:29:30Z,rstats|rayshader
+867857724670857217,1055535310967373824,2018-10-25T19:03:23Z,#rdata #rstats: BURN_EVAL_2 data - https://t.co/OaQnKVnEJp,rtweet_tokens25,0,1,in,112,14,505,en,2017-05-25T21:39:40Z,rdata|rstats
+4345403860,1055532428880764928,2018-10-25T18:51:56Z,Quebec 2018:  How did your neighbours vote?   Here's some code to wrangle the data at the poll level and create a leaflet.  Anyone has an idea what happened for this poll to be so overwhelmingly liberal? ( 84% ).#rstats code: https://t.co/Mtq4kxNHjQ  map: https://t.co/u9eJfACbCa https://t.co/mlRda3U16T,Twitter Web Client,2,4,en,46,49,189,fr,2015-12-02T00:59:39Z,rstats
+1506740425,1055531960720855040,2018-10-25T18:50:04Z,Check out the slides from the last useR Group #meetup where we discussed #excel versus #Rprogramming . Are you making the transition from Excel to R? Why or why not? What are some of the limitations you see with both? #rstats #R4DS https://t.co/HnsMqYjESI,Hootsuite Inc.,0,1,en,1808,45,1003,en,2013-06-11T20:52:23Z,meetup|excel|Rprogramming|rstats|R4DS
+18346745,1055531517752033282,2018-10-25T18:48:19Z,Apache #Spark on #Hadoop is really fun for high volume text mining. I'm taking my notes and code examples from working with #tidytextmining in #rstats and slowly re-writing them in #scala,Twitter for iPhone,2,2,en,2433,4868,20994,en,2008-12-24T00:55:27Z,Spark|Hadoop|tidytextmining|rstats|scala
+166165706,1055483949580017664,2018-10-25T15:39:18Z,"Want to learn more? Check @stephaniehicks's @github #rstats package #methylCC 📦 https://t.co/bnmoDsbdhd which she will submit to @Bioconductor soon and is looking for feedback
+
+💉 #methylCC resolves the 2 problems she mentioned earlier
+
+@GenomicsATJHU #JHUgenomics #RLadies 🧠💪🏾",Twitter Web Client,0,2,en,1021,552,5959,en,2010-07-13T14:02:54Z,rstats|methylCC|methylCC|JHUgenomics|RLadies
+166165706,1055531146350616576,2018-10-25T18:46:50Z,"Check @zhaobios's CRAN #rstats 📦 #MiRKAT that implements this method for working with OTU microbiome data
+
+https://t.co/yAU8XWB3gU
+
+This package also has methods described in other papers! 
+
+@GenomicsATJHU #JHUgenomics #RLadies https://t.co/hC0lz3eyPz",Twitter Web Client,0,1,en,1021,552,5959,en,2010-07-13T14:02:54Z,rstats|MiRKAT|JHUgenomics|RLadies
+183415330,1055530400129396736,2018-10-25T18:43:52Z,"Headed to Nor'eastR Conference tomorrow.  It looks like a great conference. https://t.co/8uzZtUZyi8
+#rstats",LinkedIn,0,1,en,41,87,206,en,2010-08-26T23:19:15Z,rstats
+845743062643027968,1055530124660129792,2018-10-25T18:42:47Z,"You always wanted to play a bit with the R package survival? Join us next week at #babbel for another session with #RLadiesBerlin #rstats
+https://t.co/9XYqJ4gq4d",Twitter for iPhone,3,2,en,137,227,383,de,2017-03-25T21:03:54Z,babbel|RLadiesBerlin|rstats
+21108598,1055525024600350721,2018-10-25T18:22:31Z,"Well, almost any. Depending on number and type of dependencies and size of eventual package. #rstats",Twitter for iPhone,0,1,en,118,209,2727,en,2009-02-17T17:29:21Z,rstats
+710845758543495170,1055523438587195392,2018-10-25T18:16:13Z,"Anyone know of an extant r package for running multivariate regression trees? Looking to do something like this: https://t.co/n2jDCjdEsF But looks like mvpart isn't on CRAN anymore?
+
+#rstats",Twitter Web Client,0,1,en,143,254,373,en,2016-03-18T15:10:10Z,rstats
+198068762,1055523203957714944,2018-10-25T18:15:17Z,"Can someone educate me on why Biobase can't be directly installed via install.packages() in #rstats and must be installed using biocLite? What is the rational behind this?
+
+## try http:// if https:// URLs are not supported
+source(""https://t.co/j2CA04OySD"")
+biocLite(""Biobase"")",Twitter Web Client,1,2,en,290,295,577,en,2010-10-03T07:48:16Z,rstats
+828846486,1055522765481132032,2018-10-25T18:13:32Z,"#crosstalk custom dashboard built for #meraki AP monitoring.  Built from a free off the shelf packages! Combine maps, spreadsheet, statistical charts and more #rstats https://t.co/Gd09AiNPs7",Twitter Web Client,2,1,en,53,215,601,en,2012-09-17T11:12:06Z,crosstalk|meraki|rstats
+16741059,1055522121764360192,2018-10-25T18:10:59Z,Y’ALL. I just came across tidyverse #rstats code formatted like this in the wild and it’s like whoa. It broke my brain more than reverse assignment (-&gt;) https://t.co/VEb2tsCYJV,Twitter for iPhone,11,2,en,2527,2837,28834,en,2008-10-14T16:37:21Z,rstats
+16741059,1055469913698066432,2018-10-25T14:43:31Z,Is there a vignette or blog post out there about the best use of the modelr #rstats package? I’m mainly interested in the best way to use typical() to generate predictions in a dplyr pipe…,Twitter for iPhone,2,1,en,2527,2837,28834,en,2008-10-14T16:37:21Z,rstats
+130791303,1055520298261463040,2018-10-25T18:03:44Z,How long until Berlin is ready for subway job ads for R? Hope not too long 🙃 #rstats #scala #onlyinberlin ❤R https://t.co/oABrYob86u,Twitter for Android,4,1,en,277,449,912,de,2010-04-08T09:43:49Z,rstats|scala|onlyinberlin
+51909512,1055519799848157184,2018-10-25T18:01:45Z,How to write your favorite #Rstats functions in #Python https://t.co/h3x7YVXAnb via @opensourceway by @tirthajyotiS,Twitter for Android,2,3,en,497,189,2432,en,2009-06-29T01:25:26Z,Rstats|Python
+814539036262039553,1055519732718338049,2018-10-25T18:01:29Z,I'm interested in using Nvim-R (on macOS). Any tips from #rstats people that use it? Particularly interested in what people do about graphical output. (Unfortunately using @RStudio's Vim keybindings isn't great for me as I remap Vim's movement keys to work better with Colemak.),Twitter Web Client,3,1,en,23,59,89,en,2016-12-29T18:30:14Z,rstats
+853461123085086721,1055516508833636353,2018-10-25T17:48:40Z,"#rprogramming #tips One from our list of top 6 must know sampling functions for #DataScientists #DataScience #RStudio #R #rstats #MachineLearning #Datasciencebeginners #Tutorials 
+
+Learn about all the six #MustKnow #functions here
+https://t.co/iiJY2mXBKX https://t.co/XQrmZC4xYy",Twitter Web Client,1,1,en,318,452,61,en,2017-04-16T04:12:43Z,rprogramming|tips|DataScientists|DataScience|RStudio|R|rstats|MachineLearning|Datasciencebeginners|Tutorials|MustKnow|functions
+853461123085086721,1055313343332970496,2018-10-25T04:21:22Z,"We have a dedicated Facebook page.. Find daily tips and tricks .. come grow with us.. #MachineLearning #DataScience
+#happylearning
+#TipsAndTricks #RStats #Python #Python3
+
+https://t.co/dHa4XPgYmQ",Twitter for Android,0,1,en,318,452,61,en,2017-04-16T04:12:43Z,MachineLearning|DataScience|happylearning|TipsAndTricks|RStats|Python|Python3
+44695301,1055515561336147969,2018-10-25T17:44:55Z,Nice environmental/decision science #statistics #JobOpening at https://t.co/GAhn8npQG5. Potential for #rstats or @mcmc_stan tweeps,Twitter Web Client,0,1,en,490,477,1929,en,2009-06-04T19:23:51Z,statistics|JobOpening|rstats
+2661769334,1055515436580814854,2018-10-25T17:44:25Z,"@ICBI_Georgetown Code and slides for our workshop are now posted in https://t.co/1bECrbYVaT. Uses #rstats and R markdown, borrows concepts from many, including @jtleek, @rdpeng, @hadleywickham, @drob. Example on #metabolomics in #Duchenne muscular dystrophy https://t.co/PGVgXLkh7L",Twitter Web Client,6,4,en,698,443,1908,en,2014-07-20T05:09:40Z,rstats|metabolomics|Duchenne
+1024737790356058112,1055515057885392896,2018-10-25T17:42:54Z,"Two weeks from today, the #rstatsdc2018 Conference will be underway! It's not too late to reserve your ticket... #rstats 
+
+https://t.co/zDQzzmz62s",TweetDeck,1,4,en,120,39,16,en,2018-08-01T19:25:02Z,rstatsdc2018|rstats
+4832020167,1055505502736539648,2018-10-25T17:04:56Z,How to validate #blockchain transactions #Infographic #DeepLearning #KSQL #MQTT #IoT #Sensor #BigData #Analytics #MachineLearning #DataScience #AI #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #VueJS #GoLang #CloudComputing #Serverless #DataScientist #100daysofcode #seo https://t.co/gwK6qpeXJV,Twitter for Android,8,11,en,9908,5436,3646,en,2016-01-21T07:57:32Z,blockchain|Infographic|DeepLearning|KSQL|MQTT|IoT|Sensor|BigData|Analytics|MachineLearning|DataScience|AI|IIoT|RStats|TensorFlow|Java|JavaScript|ReactJS|VueJS|GoLang|CloudComputing|Serverless|DataScientist|100daysofcode|seo
+4832020167,1055513999381385216,2018-10-25T17:38:42Z,"Looking to Change #Jobs? This #Industry Has 0 Percent #Unemployment. #infographic
+#DeepLearning #KSQL #MQTT #IoT #Sensor #BigData #Analytics #MachineLearning #DataScience #AI #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #100daysofcode https://t.co/2SaaikgAAD",Twitter for Android,3,14,en,9908,5436,3646,en,2016-01-21T07:57:32Z,Jobs|Industry|Unemployment|infographic|DeepLearning|KSQL|MQTT|IoT|Sensor|BigData|Analytics|MachineLearning|DataScience|AI|IIoT|RStats|TensorFlow|JavaScript|ReactJS|CloudComputing|Serverless|DataScientist|100daysofcode
+2558929054,1055511903974408194,2018-10-25T17:30:23Z,"Mais cedo rolou um minicurso sobre visualização de mapas interativos ministrado pelo professor @alsouzara. Utilizando viários 📦 do #rstats.
+#VIEBEst https://t.co/SQgIoBXtvH",Twitter for iPhone,6,1,pt,85,292,1848,pt,2014-05-22T14:40:07Z,rstats|VIEBEst
+801444727946149888,1055499015037616128,2018-10-25T16:39:10Z,Andreas Groll is presenting statistics to predict outcomes of Soccer games #zurichruser #rstats https://t.co/W8ixAxxN7p,Twitter for Android,3,1,en,399,372,230,de,2016-11-23T15:18:08Z,zurichruser|rstats
+801444727946149888,1055510844983992320,2018-10-25T17:26:10Z,Now Thomas Maier presents performance predictions in biathlon #zurichruser  #rstats https://t.co/7yR1a9AVC8,Twitter for Android,2,1,fr,399,372,230,de,2016-11-23T15:18:08Z,zurichruser|rstats
+801444727946149888,1055490649879990278,2018-10-25T16:05:55Z,Getting ready for tonight's #zurichruser meetup on sports predictions #rstats #roomwithaview #zurich #UZH https://t.co/mncXjJTyQb,Twitter for Android,9,3,en,399,372,230,de,2016-11-23T15:18:08Z,zurichruser|rstats|roomwithaview|zurich|UZH
+1452813223,1055510601647210497,2018-10-25T17:25:12Z,"How to maintain figure text sizes when putting two ggplot2 figures together into one fig? Figs are the same width and text size specified as 10. When I use grid.arrange or arrangeGrob, then ggsave, text sizes are diff. #rstats",Twitter Web Client,0,1,en,407,732,876,en,2013-05-23T23:49:12Z,rstats
+3832026569,1055509535098617864,2018-10-25T17:20:58Z,"I've been bad in grammar (Catalan, Spanish or English) my whole live. So, it's not different with the grammar of graphics 😅. Today fighting with #ggplot2 and legends. I won, and learned a couple of interesting things (but don't ask me about the grammar underneath!). #rstats",Twitter Web Client,3,1,en,895,82,4714,en,2015-10-01T08:51:16Z,ggplot2|rstats
+3354721047,1055507761860132869,2018-10-25T17:13:55Z,Congratulations to @BenAllevius for passing his licentiate thesis defence today at @Stockholm_Uni with @_PaulaMoraga_ as opponent. Scientific side note: Check out his scanstatistics #rstats pkg: https://t.co/pEyuttVBhv https://t.co/ZswRitieUU,Twitter Web Client,14,3,en,425,322,882,de,2015-07-02T09:37:07Z,rstats
+3350580543,1055506882268487680,2018-10-25T17:10:25Z,"Great to work with @RConsortium on this working group, we would love to hear your thoughts on a certification for #rstats https://t.co/uxATbz8euD",Twitter for iPhone,7,5,en,905,349,459,en,2015-06-29T11:32:15Z,rstats
+3318743950,1055506655331409921,2018-10-25T17:09:31Z,Sad but true though of the day: in a large medical meeting and in a top ranked university stat advice was to use SPSS and SAS. #rstats mention “biggest strength it’s free”... don’t know which part I dislike the most,Twitter for iPhone,1,1,en,16,39,155,it,2015-06-11T10:11:17Z,rstats
+787362218555891713,1055505843523870720,2018-10-25T17:06:18Z,"@i_steves @kevin_ushey So glad to see this! I'd given up on a personal project mixing Hebrew text data and #rstats because of this nightmare, but this encourages ed me to give it another go",Twitter for Android,3,1,en,7,99,83,en,2016-10-15T18:39:16Z,rstats
+14351134,1055505678272524288,2018-10-25T17:05:38Z,"The newest entry on Awesome #Blogdown is from @veerlevanson - 
+https://t.co/WTR0tpxEHM - https://t.co/QW54iSvRo0 #rstats",Twitter Web Client,7,3,en,1549,2631,7190,en,2008-04-10T13:45:32Z,Blogdown|rstats
+128042269,1055504957951094796,2018-10-25T17:02:46Z,Working on an RStudio addin to build &amp; save small data frames on the fly. Useful with dplyr's left_join() when the job is too big for case_when(). No more Excel importing for me! #rstats #tidyverse https://t.co/3neygMwJAt,Twitter Web Client,3,3,en,296,210,7077,en,2010-03-30T23:16:41Z,rstats|tidyverse
+2489702532,1055504567985754112,2018-10-25T17:01:13Z,"This is really an impressive post! #rstats #textmining #nlp #theoffice
+Text Mining: Every Line from The Office https://t.co/X29gsG6iNG via @jallen1006",Twitter Web Client,0,1,en,3522,4003,11271,en,2014-05-11T11:32:54Z,rstats|textmining|nlp|theoffice
+56458354,1055503899728039936,2018-10-25T16:58:34Z,Cosas que uno encuentra en medio de scripts olvidados  #rstats https://t.co/HQcj77WHVr,TweetDeck,0,1,es,623,430,13888,en,2009-07-13T18:54:28Z,rstats
+4695216853,1055488331054809088,2018-10-25T15:56:42Z,"@opencpu A ""workaround"" for pasting two #rstats #gganimate plots into one video. Write your gganimate plots into two directories of png files and read them in with #av into one sequence of png files. https://t.co/RRTAvJD3Iy",Twitter for Android,1,1,en,143,114,87,nl,2016-01-02T09:35:12Z,rstats|gganimate|av
+4695216853,1055499707739500545,2018-10-25T16:41:55Z,A simple idea but it works: paste two #rstats #gganimate animations into one video. https://t.co/AFEzXnRd4e,Twitter for Android,0,1,en,143,114,87,nl,2016-01-02T09:35:12Z,rstats|gganimate
+437174272,1055495565595811840,2018-10-25T16:25:27Z,I just found this and now all I want to do all day is make plots of residuals for my lectures. #rstats #statslyfe https://t.co/ReV304KZaU,Twitter Web Client,0,1,en,336,247,1045,en,2011-12-15T03:01:26Z,rstats|statslyfe
+27683238,1055495119430922240,2018-10-25T16:23:41Z,"Tried to replicate one of @flowingdata 's animated visualizations of population projections using #ggplot2 and #gganimate in ##rstats- got fairly close but not all the way there - I wrote up my process/ steps at:
+https://t.co/VSB9d92Lub (can't seem to post the gif here atm) https://t.co/znEFMTejhk",Twitter Web Client,33,9,en,56,317,72,en,2009-03-30T17:15:45Z,ggplot2|gganimate|rstats
+1041907348686557184,1055494069994975233,2018-10-25T16:19:31Z,"Can persistent changes be made to the #RStudio interface to remove elements for a cleaner look? My current solution is ""display: none"" in a style's css. #rstats https://t.co/cTiipZcTTq",Twitter Web Client,1,1,en,3,89,1,en,2018-09-18T04:30:44Z,RStudio|rstats
+310855369,1055492802425970688,2018-10-25T16:14:28Z,There is a specific #immigration project that needs web scraping and/or database skills with #data4democracy. Join through slack for more info. I'm also available for questions. #Python #rstats,Twitter for Android,0,1,en,329,1780,242,en,2011-06-04T13:31:09Z,immigration|data4democracy|Python|rstats
+18129188,1055483798404632582,2018-10-25T15:38:42Z,"Know what else you can do in #nbastatR in 2 function calls?
+
+Visualize AGENT relationships -- you would think ESPN &amp; Bobby Marks could do that but they cant!
+
+Learn a bit of #rstats &amp; use #nbastatR and you can though! https://t.co/UzhEZohVau",Twitter Web Client,4,1,en,2266,3106,38690,en,2008-12-15T03:15:28Z,nbastatR|rstats|nbastatR
+18129188,1055446174730240000,2018-10-25T13:09:11Z,"Know what else you can do that ""experts"" who use excel abacuses like BOBBY Marks??
+
+Explore every draft combine EVER and learn about trends like say wingspan versus height in 2 function calls! You can even UMAP {coming up?} it 
+
+#rstats #nbastatR 
+
+#RageOnBobbyMarksDay https://t.co/GiNJhMPx53",Twitter Web Client,1,1,en,2266,3106,38690,en,2008-12-15T03:15:28Z,rstats|nbastatR|RageOnBobbyMarksDay
+18129188,1055492403967246337,2018-10-25T16:12:53Z,"WhatWhaaaattttt -- Jason Kidd must want to start drinking and driving again when he sees this!
+#rstats #nbastatR
+// @tpcourier https://t.co/1ImrW3P0WZ",Twitter Web Client,4,5,en,2266,3106,38690,en,2008-12-15T03:15:28Z,rstats|nbastatR
+328439695,1055491942761533440,2018-10-25T16:11:03Z,temperature variability with ggridges https://t.co/D42IHJws8l #rstats https://t.co/trWv3eel47,Buffer,2,2,en,235,190,3207,es,2011-07-03T11:14:24Z,rstats
+909181566282354688,1055489799774183425,2018-10-25T16:02:32Z,"Just gave a little seminar talk to our water science group introducing git, GitHub and R/RStudio for project management. Used #xaringan #rstats for the firs time - here are the slides! 
+
+https://t.co/BH8oEMhASq https://t.co/FkDUFzGtCf",Twitter Web Client,18,6,en,251,1020,68,en,2017-09-16T22:25:51Z,xaringan|rstats
+295344317,1055489163645067264,2018-10-25T16:00:01Z,Robust function writing tip: use seq_len(N) instead of 1:N (it handles the N&lt;1 case appropriately) https://t.co/bV36jrunMg #rstats,TweetDeck,43,18,en,56516,11,2016,en,2011-05-08T20:51:40Z,rstats
+2863958411,1055488065337282560,2018-10-25T15:55:39Z,Loving sentiment analysis in R: the tidy way and the Elizabethan costume! @DataCamp @juliasilge #RStats,Twitter for Android,3,1,en,298,501,1165,en-gb,2014-11-06T15:16:10Z,RStats
+103004948,1055486793863192576,2018-10-25T15:50:36Z,new #rstats #microdemic ver on CRAN - release notes: https://t.co/szvNbijCkd | use vcr; ma_abstract now gives a data.frame with article ID https://t.co/LMkkHnNl1h,Tweetbot for Mac,0,1,en,4775,1171,30835,en,2010-01-08T15:05:19Z,rstats|microdemic
+3281855299,1055486277762437120,2018-10-25T15:48:33Z,"Yes, hello, I’m writing this #rstats data wrangling lesson plan/exercise set while listening to the Moana soundtrack on repeat. #welcometotidyverse #YOUREWELCOME #youshouldknoooow #wherethepipegoooooes",Twitter for iPad,4,1,en,187,493,556,en,2015-07-16T17:47:37Z,rstats|welcometotidyverse|YOUREWELCOME|youshouldknoooow|wherethepipegoooooes
+17402097,1055485636147204096,2018-10-25T15:46:00Z,"Creating and saving plots with Purrr https://t.co/kfGk3YIGcn
+
+Made a series of 20 plots with one chunk of code #Rstats #tidyverse",Twitter Web Client,0,1,en,487,921,7866,en,2008-11-15T04:27:29Z,Rstats|tidyverse
+4686586766,1055484534001725443,2018-10-25T15:41:37Z,"#MachineLearning Services – Configuring R Services in #SQLServer
+@SQLShack #rstats 
+https://t.co/pJCLG7ymp6 https://t.co/M2Cq3irPPa",Twitter Web Client,3,2,en,5492,4138,11216,en,2016-01-01T02:33:44Z,MachineLearning|SQLServer|rstats
+19301110,1055484443400564737,2018-10-25T15:41:15Z,"Hey #txwater and #rstats, my unreleased 📦R package to apply empirically derived correction factors to drainage area ratio estimated streamflows in Texas is online. Hope it is useful.
+https://t.co/5WNFoZZPv1",Twitter Web Client,0,1,en,671,467,5051,en,2009-01-21T19:00:50Z,txwater|rstats
+2855672764,1055480782964379649,2018-10-25T15:26:43Z,"Excited to finally get on this Equal Earth projection bandwagon in #rstats, check out the code here and start using this awesome new projection from @MtnMapper and @BojanSavric in your R maps! https://t.co/DS0aqVPwfl #EqualEarthProjection #GIS 🌍 https://t.co/3G4jZyCgpc",Twitter Web Client,28,10,en,404,367,497,en,2014-11-01T21:22:53Z,rstats|EqualEarthProjection|GIS
+532752544,1055480475819667457,2018-10-25T15:25:29Z,NFL team logos using ggimage and #rstats https://t.co/apYTCl0CKf https://t.co/92INCJSrJu,Twitter Web Client,55,13,en,9591,564,14019,en,2012-03-22T02:21:13Z,rstats
+10950512,1055479004612960256,2018-10-25T15:19:39Z,"Writing a CV in markdown so it can be rendered as HTML, a PDF, and a Word document - a first attempt https://t.co/1SJSEfaeAl #rstats",Twitter Web Client,7,1,en,1615,591,9859,en,2007-12-07T21:37:23Z,rstats
+700707458226847744,1055478434992963584,2018-10-25T15:17:23Z,Study of the (poor) safety conditions of Maryland's bridges -- good example of #rstats in journalism! @ReporterCioffi @mary_m_glover,Twitter Web Client,1,1,en,156,207,220,en,2016-02-19T15:44:11Z,rstats
+2420982414,1055477359921397760,2018-10-25T15:13:07Z,"When you make a coding breakthrough 5 minutes before leaving home for work.
+
+Beginning to accept that 80% of being a biologist is googling how to do things in R. #Rstats #CodeNewbie https://t.co/EF7UJ2Mi7D",Twitter for Android,8,2,en,453,1575,3317,en,2014-03-31T19:38:14Z,Rstats|CodeNewbie
+2627108586,1055476820655648769,2018-10-25T15:10:58Z,"If you want to know which of your installed @github #rstats packages are outdated, I made my 1st @rstudio add-in to mimic the ""update"" button for CRAN ones. Links to the remote NEWS file if present. Feedback welcome.
+https://t.co/DVG3HfxcJf https://t.co/v9TYEoUUJn",Twitter Web Client,19,6,en,128,216,1062,fr,2014-07-12T16:31:29Z,rstats
+1089250166,1055473606556188673,2018-10-25T14:58:12Z,"Writing R requires a delicate, steady hand #rstats https://t.co/eJUJBvWfeG",Twitter Web Client,3,2,en,10,50,252,en,2013-01-14T14:55:02Z,rstats
+421213288,1055470199435132928,2018-10-25T14:44:39Z,@SandraZelinsky @KKemp80 @TheMethodsHub With #rstats #shiny https://t.co/0kKPdwZ2Jn,Twitter Web Client,1,1,en,5198,746,12997,en,2011-11-25T17:08:04Z,rstats|shiny
+326299187,1055468521335992320,2018-10-25T14:37:59Z,"""If R is slow for you, you're probably doing it wrong"".
+Includes tips to avoid and overcome bottlenecks #rstats https://t.co/atXRhyy7Ci",Twitter for Android,36,9,en,1861,282,4068,es,2011-06-29T18:00:18Z,rstats
+268586163,1055468267207303172,2018-10-25T14:36:59Z,"Happy to be back in beautiful Bahir Dar, Ethiopia with @hessandrea and @nekodawn providing #rstats training in support of malaria surveillance and forecasting! https://t.co/QKJ5N76Kh7",Twitter Web Client,10,1,en,597,695,707,en,2011-03-19T02:26:20Z,rstats
+3230288106,1055465983916326912,2018-10-25T14:27:54Z,"#gganatogram now has a #rshiny app!
+
+library(shiny)
+runGitHub( ""gganatogram"", ""jespermaag"",  subdir = ""shiny"") 
+
+https://t.co/NHoa8zX7o0 (limited to 25h/month) 
+
+https://t.co/f0KcBetmCe 
+#rstats #ggplot2 #dataviz https://t.co/FlM3l2CAGM",Twitter Web Client,38,10,en,550,2600,513,en,2015-05-30T04:25:57Z,gganatogram|rshiny|rstats|ggplot2|dataviz
+1467507361,1055465025790300162,2018-10-25T14:24:06Z,Teaching a #rstats course at the University of Guyana to support sustainable management of natural resources. Amazing support from @TCD_UF @WWFGuyana and fantastic students! @LeannaKalichar1 @Tortured_Minds_ https://t.co/UPdLZTt4zD,Twitter for Android,11,4,en,192,246,543,en,2013-05-29T15:00:33Z,rstats
+16998179,1055461813607952384,2018-10-25T14:11:20Z,"If you’re new (or new-ish) to #Rstats, The Pirate’s guide to R (@YaRrrBook) is a great resource worth checking out https://t.co/PMhfscL0Xb https://t.co/UbUNynWy5f",TweetDeck,33,8,en,5820,295,9653,en,2008-10-27T13:33:18Z,Rstats
+34677653,1055460623394447361,2018-10-25T14:06:36Z,What skills should a certified R professional possess? The @RConsortium working group on certification is looking for your input in this 5-minute survey: https://t.co/V2Aa9Vrda9 #rstats,TweetDeck,19,15,en,29039,1876,12242,en,2009-04-23T17:51:16Z,rstats
+956467090508087297,1055458013824344064,2018-10-25T13:56:14Z,"Just got note another pkg from the @RStudio suite of #rstats packages will soon have a major release with breaking changes. If you rely on devtools, you better check the coming changes. #Rtip
+
+https://t.co/McuGkuSXuo",Twitter Web Client,6,3,en,285,147,2543,en,2018-01-25T10:01:39Z,rstats|Rtip
+174434226,1055457595375398912,2018-10-25T13:54:34Z,"ooooh clearing the contents of directory with the fs #rstats package
+
+import_data %&gt;% fs::dir_delete() %&gt;% fs::dir_create()",Twitter Lite,1,2,en,1261,609,20899,en,2010-08-03T22:45:43Z,rstats
+433559451,1055457438378442752,2018-10-25T13:53:57Z,you need no more other heatmap functions except https://t.co/Fj0DPuBG4u @jokergoo #rstats,Twitter Web Client,9,3,en,1319,358,24642,en,2011-12-10T18:28:48Z,rstats
+3409901933,1055455976063688709,2018-10-25T13:48:08Z,"Machine learning, logistic regression, and decision trees for healthcare in R https://t.co/QVS5nX2LbU #rstats",Google,1,1,en,1289,577,2021,en,2015-08-09T07:18:53Z,rstats
+834235157875978240,1055453590070935552,2018-10-25T13:38:39Z,"My first #rshiny app! This will be used to keep participant engaged during a longitudinal EMA based study. At the end of their week, they will input a unique code &amp; get personalized emotion graphs! They can also download them! Hopefully they will like it as much as I do! #rstats https://t.co/rN0CXhgmGt",Twitter Web Client,9,3,en,66,390,254,en,2017-02-22T02:55:35Z,rshiny|rstats
+2427666512,1055451762952413184,2018-10-25T13:31:24Z,"#rstats is faster than you think! To prove it, I ray-shaded mountains with plain R faster than with `rayshader::ray_shade` (C++).
+
+Blog post: https://t.co/d4tTz0bKGP, cc @tylermorganwall, @wuoulf. https://t.co/g08EmRjt8j",Twitter Web Client,72,20,en,207,88,724,en,2014-04-04T18:14:52Z,rstats
+421280460,1055451025883033607,2018-10-25T13:28:28Z,"Dear #rstats #rstudio community,
+I am trying to create an Anaconda environment including same R and RStudio versions for a group of collabs.
+First I had some issues with Rtools PATH. 
+And now, RSt. opens a download dialgo.
+Do you have similar issues with R envirs in Anaconda? Thx",Twitter for Android,0,1,en,275,1031,5932,es,2011-11-25T18:57:32Z,rstats|rstudio
+390722263,1055447905581064192,2018-10-25T13:16:04Z,Has anyone tried accessing data from facebook through R or Python? I am trying to analyse viewership of a certain public page in R. Problems!!!! I did the same last year and it was flawless... #gosh #help #rstats #DataScientists,Twitter Web Client,0,1,en,122,206,291,en,2011-10-14T12:59:07Z,gosh|help|rstats|DataScientists
+17950857,1055446951251054592,2018-10-25T13:12:17Z,Hey #louisville #rstats! Don't forget to register for tomorrow's meetup! We're talking #Data &amp; #Ethics this month. Link to register is here:  https://t.co/zBm0wcevDy https://t.co/KGbNz73xvr,Buffer,0,2,en,309,522,2817,en,2008-12-07T23:56:55Z,louisville|rstats|Data|Ethics
+792773613132873729,1055446859395858433,2018-10-25T13:11:55Z,"Does anyone else get weird behavior of `devtools::document()` in RStudio compared to running the command in a terminal session? The former throws bunch of errors and deletes a lot of .Rd files. RStudio, devtools, roxygen? mh..
+devtools v2.0.0, RStudio 1.2.1062, rox 6.1.0 #rstats https://t.co/NRrKrBySb6",Corebird,1,1,en,170,191,287,de,2016-10-30T17:02:13Z,rstats
+2957630309,1055445793103138816,2018-10-25T13:07:40Z,"@GCasselberry @mcmsharksxx I’d second the suggestion to use dplyr. You can also assign variables to those categories and make new columns if you want. Good luck, #rstats is always a learning curve!",Twitter for iPhone,1,1,en,352,577,1456,en,2015-01-03T00:46:07Z,rstats
+496229951,1055444364942397440,2018-10-25T13:02:00Z,Awesome. So many featurs one/I do not use. Diminishes one of the advantages of having chunks in .Rmd files #rstats https://t.co/CVe9pteHE7,TweetDeck,1,1,en,2116,1785,12819,de,2012-02-18T18:59:07Z,rstats
+548399962,1055444101670277122,2018-10-25T13:00:57Z,"Partial views of the results generated with @GRASSGIS and #rstats #R (rgrass7 pkg). Morphometric characterization of ca. 4000 subbasins. Key GRASS addons: r.basin, https://t.co/cd5XWMUWGG* and r.watershed. Screenshots with @qgis and @libreoffice #opensource https://t.co/Ec6rJpOTsz",Twitter Web Client,4,2,en,672,360,2758,es,2012-04-08T12:46:27Z,rstats|R|opensource
+548399962,1055444292158787585,2018-10-25T13:01:43Z,"Vista parcial de resultados generados con @GRASSGIS y #rstats #R (rgrass7 pkg). Caracterización morfométrica de casi 4000 subcuencas. Addons clave de GRASS: r.basin, https://t.co/cd5XWMUWGG*, r.watershed. Capturas de pantalla con @qgis y @libroffice #opensource https://t.co/4PJBJzISAJ",Twitter Web Client,2,1,es,672,360,2758,es,2012-04-08T12:46:27Z,rstats|R|opensource
+59107849,1055443208220622848,2018-10-25T12:57:24Z,"And our job description is live! 🎉 I am hiring a Data Scientist at @AirbnbData, job is based in Paris. Dream opportunity. Don't by shy come join us! #rstats #pydata - https://t.co/fdf9YuVsGR",TweetDeck,6,4,en,1386,938,2625,en,2009-07-22T12:07:11Z,rstats|pydata
+967072843677818893,1055442757282607104,2018-10-25T12:55:37Z,Reminder to signup for next @RLadiesBmore event on Nov 14! Planned activities: 1. Group coding project👩🏽‍💻👩‍💻👩🏻‍💻 (we're making #holiday cards! 🦃❄️🎶🎄) 2. Talk from @christinezhang on how she uses #rstats as a data journalist @baltimoresun @baltsundata! RSVP: https://t.co/IRxRTPezJU,TweetDeck,13,9,en,105,0,21,en,2018-02-23T16:25:08Z,holiday|rstats
+1044589785866678272,1055431184161914880,2018-10-25T12:09:37Z,Watch EARL Conference @earlconf videos via @MangoTheCat #rstats #rladies https://t.co/tOqPU3WHat https://t.co/ZtPwAgVgY4,Twitter Web Client,5,3,en,48,210,21,en,2018-09-25T14:09:47Z,rstats|rladies
+1044589785866678272,1055433195020263424,2018-10-25T12:17:37Z,Please give your valuable feedbacks. #rstats #RLadies #r4ds via @MangoTheCat https://t.co/YxoK1aZWdN https://t.co/pPpl6ETvQZ,Twitter Web Client,2,3,en,48,210,21,en,2018-09-25T14:09:47Z,rstats|RLadies|r4ds
+2444098410,1055429999837265921,2018-10-25T12:04:55Z,"For all the GAMs affectionates, #gratia is a new package to create nicer, actually...graceful GAM plots  #rstats https://t.co/zIllTvDHim",Twitter Web Client,1,1,en,97,396,106,en,2014-04-14T16:00:43Z,gratia|rstats
+2444098410,1055432010691424256,2018-10-25T12:12:54Z,"I wish I had such a tool when I started usign GAMs, but for all the people out there starting with GAMs: sit back, relax and enjoy a #DataCamp course explaining #GAMs for you. 😉#rstats #rgeeks https://t.co/y4keYoy5My",Twitter Web Client,1,1,en,97,396,106,en,2014-04-14T16:00:43Z,DataCamp|GAMs|rstats|rgeeks
+590006445,1055431787931975682,2018-10-25T12:12:01Z,@RLadiesKtm @earlconf @MangoTheCat Thanks for sharing. #rstats,Twitter Web Client,1,1,en,481,497,910,en,2012-05-25T11:49:15Z,rstats
+113391981,1055429796623147008,2018-10-25T12:04:07Z,I just read in Rstudio community about use API in #Rshiny. It's amazing but seems stalled? Hope that can come back. Now I used to implement #rstats API under #opencpu. Plumber seems also good.  https://t.co/0va1mUQoc8  15:04 https://t.co/BetpV3wHpq,Twitter Web Client,0,1,en,123,315,3814,zh-TW,2010-02-11T16:18:59Z,Rshiny|rstats|opencpu
+96573481,1055427593984532480,2018-10-25T11:55:21Z,"I am giving two workshops focusing on the #tidyverse for #rstats beginners at @DataFestTbilisi
+
+#DataFestTbilisi Agenda: https://t.co/5YhE1ZhgXd https://t.co/l2XzuNpBTn",Twitter Web Client,21,6,en,954,772,16562,en,2009-12-13T15:58:13Z,tidyverse|rstats|DataFestTbilisi
+523216510,1055423864430321668,2018-10-25T11:40:32Z,"Worried you don’t know enough #rstats or #shiny? PLEASE APPLY.
+
+I applied for this role 3 years ago. I started learning #rstats the day I got offered an interview for the interview exercise.
+
+(Admittedly, the team hadn’t decided a fave #dataviz tool. Now we have)
+
+PLEASE APPLY",Twitter for iPhone,2,1,en,893,1542,8586,en,2012-03-13T12:45:51Z,rstats|shiny|rstats|dataviz
+523216510,1055421414906478592,2018-10-25T11:30:48Z,"This is the kinda thing we help researchers build https://t.co/s8Ok1oNNOn using #rstats &amp; #shiny.
+
+We’ve started a #OpenSource partnership w/ @sheffielduni called OxShef: dataviz https://t.co/G5PmMhLtpG which aims to compile consistent info for researchers to do dataviz right 3/?",Twitter for iPhone,2,1,en,893,1542,8586,en,2012-03-13T12:45:51Z,rstats|shiny|OpenSource
+523216510,1055418845446488064,2018-10-25T11:20:36Z,"Job posting for folks interested in #reproducibleresearch #dataviz and #rstats in my team at @UniofOxford https://t.co/VUL78dYd4p
+
+This is a really fun and rewarding 2 year post, salary range £40-48k. Centrally funded.
+
+Lemme tell you more 1/?",Twitter for iPhone,2,4,en,893,1542,8586,en,2012-03-13T12:45:51Z,reproducibleresearch|dataviz|rstats
+1030434580443090944,1055420956980793349,2018-10-25T11:28:59Z,"@cablatter 🤣🤣
+Do not forget to post the results! 
+@cablatter everything will be fine! If not, try to read a #rstats book! 🧐🤓",Twitter Web Client,0,1,en,91,258,153,en,2018-08-17T12:42:03Z,rstats
+1030434580443090944,1055420513860943872,2018-10-25T11:27:13Z,"I never ask myself this question.... 😅
+Have a look at this interesting discussion about how to license a post with analysis code #rstats #code https://t.co/yUSp4B32YZ",Twitter Web Client,1,2,en,91,258,153,en,2018-08-17T12:42:03Z,rstats|code
+1030434580443090944,1055422323392761856,2018-10-25T11:34:25Z,"Wanna learn #statistics differently? Have a look at @joshuastarmer StatQuest videos, providing a visual approach to the equations! #rstats #Video #YouTube 📊📈📉
+
+➡️ https://t.co/Kqrz56UZx6",Twitter Web Client,3,1,en,91,258,153,en,2018-08-17T12:42:03Z,statistics|rstats|Video|YouTube
+1009632509703925760,1055420636301062144,2018-10-25T11:27:43Z,"İşyerinde mailleri R ile göndermek 😊
+
+library(RDCOMClient)
+Outlook &lt;- COMCreate(""Outlook.Application"")
+Mail &lt;- Outlook$CreateItem(0)
+Mail[[""To""]] &lt;- ""ornek@mail.com""
+Mail[[""subject""]] &lt;- ""Konu""
+Mail[[""body""]] &lt;- ""Detay""
+Mail$Display()
+Mail$Send()
+
+#rstats #rstatstr",Twitter for Android,4,1,en,26,67,17,en,2018-06-21T03:02:03Z,rstats|rstatstr
+36989830,1055415928396173312,2018-10-25T11:09:00Z,"This is a great analysis of the hashtags #epidemiology vs #epitwitter using @kearneymw’s rtweet #rstats package.
+
+What about hashtags in your own field? https://t.co/DXxuER40pg",Twitter for iPhone,3,1,en,625,996,21800,en,2009-05-01T17:11:18Z,epidemiology|epitwitter|rstats
+1919750551,1055413579720151040,2018-10-25T10:59:40Z,My biggest struggle during the  programming of my model for a SEM analysis in #R is working around the hind legs of my cat 😂 #PhDlife #Phdchat #academicswithcats #rstats #lavaan #research #SEM https://t.co/SeCsu6gDfz,Twitter for iPhone,16,5,en,328,431,1145,nl,2013-09-30T11:10:58Z,R|PhDlife|Phdchat|academicswithcats|rstats|lavaan|research|SEM
+200649334,1055409976997539840,2018-10-25T10:45:21Z,"Streaming en directo de la V Xornada de Usuarios de R en Galicia
+#rstats #Rgal18
+https://t.co/RzwZzcSins",Twitter for Android,2,1,es,278,399,5364,es,2010-10-09T21:26:54Z,rstats|Rgal18
+21110740,1055406699090272261,2018-10-25T10:32:20Z,Yikes. My alarm just went off to wake up. Can you get a #PhD in Procrastination?   First acknowledgment is the season of @FriendsTV playing despite @netflix asking me if I was still alive. #rstats #gradschool #PhDchat https://t.co/DBkQ8BtGil,Twitter for iPhone,4,1,en,204,264,716,en,2009-02-17T17:50:27Z,PhD|rstats|gradschool|PhDchat
+241976839,1055405848770502656,2018-10-25T10:28:57Z,"Guide complet de l'API de SEMrush avec R (package) : https://t.co/9k4we5lrx8 
+
+#Automatisation #SEO #Rstats https://t.co/MQXqio0hWB",LinkedIn,8,1,ca,2364,341,2766,fr,2011-01-23T16:45:12Z,Automatisation|SEO|Rstats
+241976839,1055355744286097408,2018-10-25T07:09:51Z,"Le package R SEMrushR (API de @semrush_fr ) aura bientôt de nouvelles fonctionnalités inédites pour l’automatisation #SEO
+#surprise #RStats 
+Plusieurs indices ici : https://t.co/poY4yuqZtm",Twitter for iPhone,5,1,fr,2364,341,2766,fr,2011-01-23T16:45:12Z,SEO|surprise|RStats
+3044970976,1055404990280462337,2018-10-25T10:25:32Z,"Pilot whale breathing rates increase before deep dives, and track past dive duration and locomotion effort - but were lower than expected during navy sonar exposures and killer whale sound playbacks. #OpenAccess and all #rstats available @FrontPhysiol https://t.co/2UvFvye3yh https://t.co/3vkdgD3Bo8",Twitter for Android,24,17,en,413,591,497,en,2015-02-19T18:01:22Z,OpenAccess|rstats
+2219758122,1055404401148477440,2018-10-25T10:23:12Z,@TheStephLocke @ma_salmon nice side effect of creating a covrpage vignette.... adds more info for users on cran package page. https://t.co/CKiAhlfBDa #rstats https://t.co/scxlLMsfWG,Twitter for iPhone,1,1,en,279,137,2453,en,2013-11-28T13:51:14Z,rstats
+877615636586876928,1055402514315653125,2018-10-25T10:15:42Z,"#Textmining of patient data, latent dirichlet allocation, and presenting latent topics over time (incl. pre- /post-operation):
+New ways of #sensemaking of #patientexperience
+
+#latentclassanalysis #lca
+#rstats #topicmodels https://t.co/66iqII4wgl",Twitter Web Client,0,2,en,387,744,1550,en-gb,2017-06-21T19:54:08Z,Textmining|sensemaking|patientexperience|latentclassanalysis|lca|rstats|topicmodels
+839855652331786240,1055401722590445571,2018-10-25T10:12:33Z,"Health Data Challenge: Register before November 15th 
+➡ https://t.co/k0ExbOTAH4    #DataScience #datachallenge #Health #Rstats #RstatsFR @u_grenoblealpes @magg_richard https://t.co/HVfT4HIzHS",Twitter Web Client,1,1,en,425,144,358,fr,2017-03-09T15:09:26Z,DataScience|datachallenge|Health|Rstats|RstatsFR
+4185693507,1055396693108293632,2018-10-25T09:52:34Z,"in addition to the #RMarkdown preview (which is working great already, btw) there's a new export plugin to save markdown documents in various formats, including ""first defined in document"" and ""all defined"" #rstats https://t.co/uAaIGNm1Bp",Twitter Web Client,9,6,en,74,29,87,en,2015-11-14T10:45:24Z,RMarkdown|rstats
+17369964,1055396168954462208,2018-10-25T09:50:29Z,Drawing splines with French Curves! #ggplot2 makes that a lot easier!! ;) #Rstats https://t.co/tJanIDAS5U,TweetDeck,0,1,en,743,814,15960,en,2008-11-13T17:47:46Z,ggplot2|Rstats
+770627302950596608,1055394676805718016,2018-10-25T09:44:33Z,Thomas Goosens from CRA Wallonia presenting spatial modelling of weather data using #rstats at @foss4gbe https://t.co/PP4dF9Etu4,Twitter for Android,2,1,en,129,108,502,de,2016-08-30T14:20:41Z,rstats
+4663450935,1055393846522187776,2018-10-25T09:41:15Z,What's new in dplyr 0.7.7 and in rlang 0.3.0.1? #tidyverse #rstats,Twitter Web Client,0,1,en,29,84,115,ca,2015-12-31T10:14:10Z,tidyverse|rstats
+301611313,1055391874008211456,2018-10-25T09:33:25Z,Do you like discounts? Register today for the @DARTHworkgroup course and pay the early bird fee. You can attend the course in person in Toronto or via the Webinar. Join us and learn more about #rstats for decision modeling. https://t.co/fhmOJlU6ED,Twitter for iPhone,7,5,en,53,36,34,en,2011-05-19T19:14:33Z,rstats
+219788992,1055391535028756480,2018-10-25T09:32:04Z,The programme is just about there for @QgisUK in Stirling. It's got #QGIS @postgis #python #rstats @postgresql #CI #maps #Cartography #3d and more... https://t.co/9vTWBAZnw3,Twitter for Android,2,4,en,793,491,4979,en,2010-11-25T21:56:57Z,QGIS|python|rstats|CI|maps|Cartography|3d
+3596301683,1055391327590989824,2018-10-25T09:31:15Z,Sample chapters and info on the supporting #rstats package for 'Spatio-Temporal Statistics with R' are now available at the book website: https://t.co/cntulN5Hgc. #spatial #statistics #datascience https://t.co/LCVdTkRFLY,Twitter Web Client,18,8,en,404,1048,947,en,2015-09-09T08:00:56Z,rstats|spatial|statistics|datascience
+2984742628,1055387860566720512,2018-10-25T09:17:28Z,"""local"" or ""YARN""...? 😉 
+So excited to give a small workshop on big data IO ""hands on"" with #sparklyr at #Rgal18! 
+Thanks to @javicacheiro for all the help and effort to make this possible, and @CESGA_ for all their help and invaluable support! 
+#awesome #rstats https://t.co/Mc1O1NdUoH",Twitter Web Client,2,1,en,186,584,1568,es,2015-01-18T21:43:06Z,sparklyr|Rgal18|awesome|rstats
+14334354,1055387369862385666,2018-10-25T09:15:31Z,"Nice use of #rstats to analyse rice quality. That is, eating quality, by several former coworkers from @irri https://t.co/XNLOENYaQM",Twitter for iPhone,3,1,en,1233,1420,6616,en,2008-04-08T17:45:13Z,rstats
+916734361,1055386172002832384,2018-10-25T09:10:46Z,"Today I'm presenting a few common traps of the R language at the @RUG_Toulouse 
+https://t.co/2di80XLksW
+
+#Rstats #RstatsFR https://t.co/2vArqGjasn",Twitter Web Client,5,4,en,362,317,3678,fr,2012-10-31T11:57:03Z,Rstats|RstatsFR
+3092381638,1055385507318906880,2018-10-25T09:08:07Z,"Hey #rstats community, is there any way to draw a circle with a gradient filling using #ggplot2 🤔 @thomasp85 your geom_circle() does not support this feature or did I miss smt?
+
+Smt like this would be the desired output: https://t.co/JxjpwTdstk",Twitter Web Client,3,1,en,210,514,941,en,2015-03-16T10:21:19Z,rstats|ggplot2
+20520190,1055384560815489024,2018-10-25T09:04:22Z,R-users &amp; Community! We need your feedback! R Consortium has started a group to create an R Certification to teach &amp; verify skilled R Professionals. Please respond to this quick 5-min survey to help in the creation of the certification: https://t.co/9T2sDzna1b #rstats #R4DS https://t.co/m6HSbM5CL9,Twitter Web Client,6,9,en,4131,3064,9874,en,2009-02-10T15:37:43Z,rstats|R4DS
+29121167,1055383214041137153,2018-10-25T08:59:00Z,"seeing ""R CMD check succeeded"" is like beating Robotnik / Bowser / &lt;insert 80s video game boss&gt; #rstats https://t.co/P2NA9kEbrv",Twitter Web Client,1,1,en,368,473,3208,en,2009-04-06T02:05:21Z,rstats
+131640095,1055382049966735361,2018-10-25T08:54:23Z,"Grande partecipazione ieri al primo #DataManagement Hands-On Lab dell'anno presso la #Microsoft House di Milano. I Mentor @lucazav, @glhotz e il team di SolidQ vi ringraziano e vi invitano ai prossimi eventi. Continuate a seguirci!
+#SQLServer #BigData #AdvancedAnalytics #rstats https://t.co/U8s1A7cUjS",Twitter Web Client,2,1,it,605,469,563,it,2010-04-10T22:11:21Z,DataManagement|Microsoft|SQLServer|BigData|AdvancedAnalytics|rstats
+787160127103041536,1055380797811843072,2018-10-25T08:49:24Z,The Coding Club team at work teaching us about data visualization at another great session yesterday - week 6 and numbers still going strong! Check out our follow up second #ggplot tutorial here: https://t.co/KCgNV5ITiw #Rstats #dataviz #PhDchat #ECRchat https://t.co/UqCGd8UC76,Twitter for iPhone,8,3,en,877,139,216,en,2016-10-15T05:16:14Z,ggplot|Rstats|dataviz|PhDchat|ECRchat
+20525781,1055379618386112514,2018-10-25T08:44:43Z,Visualizing R-Ladies' growth! https://t.co/URC9dYSrmg #rstats #twitter #data #analytics,Twitter Web Client,1,2,en,171,279,1417,en,2009-02-10T16:56:20Z,rstats|twitter|data|analytics
+226405509,1055374555261423616,2018-10-25T08:24:36Z,Interesting question to @wesmckinn @PyConDE about the need of a good shiny equivalent in #Python ecosystem #PyConDe #rstats,Twitter for Android,6,2,en,310,241,1854,en,2010-12-14T02:38:29Z,Python|PyConDe|rstats
+3294411689,1055373260433645568,2018-10-25T08:19:27Z,A look at Bayesian hierarchical modelling with rstanarm and yellow cards: https://t.co/57ptgZvJct #rstats #bayes,Twitter Web Client,3,1,en,77,584,339,en,2015-05-22T20:04:16Z,rstats|bayes
+819824546979180544,1055369141538955264,2018-10-25T08:03:05Z,Excited to hear about the way of pandas and especially about collaboration between #python and #Rstats @wesmckinn @PyConDE @zkmkarlsruhe https://t.co/GRxY9fI2DR,Twitter for iPhone,5,1,en,135,304,89,de,2017-01-13T08:32:58Z,python|Rstats
+106504800,1055368102622515200,2018-10-25T07:58:58Z,@RECONEPI @baquast @BenParker140 #Rstats 🤙🏼 https://t.co/XDxjruIAt0,Twitter for iPhone,2,1,und,3007,5001,83253,en,2010-01-19T19:48:01Z,Rstats
+342098057,1055366979442233344,2018-10-25T07:54:30Z,I’m looking forward to teaching reproducible analyses with R and R Markdown at Macquarie University next week as part of their Learning Emerging Best Practices workshop. #rstats #openscience,Twitter for iPhone,10,1,en,373,830,37,en,2011-07-25T13:43:38Z,rstats|openscience
+36904884,1055364912506068992,2018-10-25T07:46:17Z,My friend Grug made this today: a 2D representation of how similar coffee types are (from this https://t.co/alosUNwh9C) #tsne #rstats #ggplot2 #coffee https://t.co/lv5nw8dDU2,Twitter for Android,6,1,en,191,726,1217,en,2009-05-01T07:36:19Z,tsne|rstats|ggplot2|coffee
+33861734,1055362853966729216,2018-10-25T07:38:06Z,"Ah, the nostalgia 🤠 Pacman from Rcade #rstats package by @RLesur 🎮 I. Should. Not. Be. Playing. This. 😓 https://t.co/N1x3K7g6mL",Twitter Web Client,83,25,en,1165,323,924,en,2009-04-21T09:45:47Z,rstats
+796071190968332290,1055359183367880706,2018-10-25T07:23:31Z,"Perfect timing, just as I'm getting started with GAMs using #rstats for the #PollerGEN Project. I'll have to check out the package! https://t.co/J07RIz562B",Twitter for Android,2,2,en,284,689,670,en,2016-11-08T19:25:37Z,rstats|PollerGEN
+985581018,1055358522718912513,2018-10-25T07:20:54Z,There will never be enough love for the ggplot family #rstats #ggplot2 https://t.co/QRpqfeEMWe,Twitter for iPhone,1,1,en,139,316,1432,fr,2012-12-02T23:45:33Z,rstats|ggplot2
+220271271,1055356278304845824,2018-10-25T07:11:58Z,1. This is the kind of things that pisses me off! Stop comparing #Python and #rstats. They are both great and might serve slightly different needs. https://t.co/64C81a0vBK,Twitter Web Client,1,1,en,351,798,3337,en,2010-11-27T08:13:09Z,Python|rstats
+220271271,1055356657088282624,2018-10-25T07:13:29Z,2. You could achieve the same thing with fewer lines in #rstats and no library imports whatsoever. But because we love #ggplot2 here you go! https://t.co/shTyiEwHcw,Twitter Web Client,0,1,en,351,798,3337,en,2010-11-27T08:13:09Z,rstats|ggplot2
+1011503582410170368,1055351394033643520,2018-10-25T06:52:34Z,"Settimo Vittone (001266), Torino, Piemonte.
+
+Done in #rstats using #ggplot2, #rspatial, #ggmap and #rtweet. https://t.co/P3lwHvwzyd",italiancomuni,0,1,it,6,0,275,en,2018-06-26T06:57:01Z,rstats|ggplot2|rspatial|ggmap|rtweet
+46858298,1055349615392968704,2018-10-25T06:45:30Z,"#RStudio nel #cloud: supercomodo per imparare e insegnare R, e per condividere progetti #rstats #Thankful @rstudio https://t.co/usdTD7CBB3",Twitter for iPhone,0,1,it,1994,1951,12607,en,2009-06-13T09:21:34Z,RStudio|cloud|rstats|Thankful
+238528404,1055348714590498816,2018-10-25T06:41:55Z,"my first attempt at converting PDF presentations to PowerPoint using #rstats and RMarkdown
+https://t.co/Fre4V3DfRC https://t.co/M4eVu7Yj8V",Twitter Web Client,31,4,en,1587,1449,2445,en,2011-01-15T11:22:37Z,rstats
+77442727,1055347412422877184,2018-10-25T06:36:45Z,"I am working on #SEER cancer survial data and with the survminer package I get the error in the attached image. I could do the analysis with other survival related packages.
+I would like to get your opinions on the possible cause of this error. #rstats #survminer https://t.co/izpnMpML9R",Twitter Web Client,3,1,en,1749,5000,9653,en,2009-09-26T10:06:38Z,SEER|rstats|survminer
+135491183,1055347086504480768,2018-10-25T06:35:27Z,"Have you ever had trouble with a VM running out of space, so you couldn´t log-in anymore?
+#datascience #rstats &amp; #python -folks.",Twitter Web Client,0,1,en,381,151,3598,de,2010-04-21T13:07:48Z,datascience|rstats|python
+18100201,1055344916157612032,2018-10-25T06:26:50Z,I’m not quite sure how our #rstats slack group would explain :rock: https://t.co/GP4RQv4wgE,Twitter for iPhone,2,1,en,4711,943,5927,en,2008-12-13T16:10:18Z,rstats
+4338719183,1055338593768693761,2018-10-25T06:01:42Z,Eine kurze Einführung in R Markdown inkl. wie man TeX in R installiert und stargazer/texreg in R Markdown verwendet: https://t.co/kLkA293IcH @IPZuser #rstats #rmarkdown,Twitter Web Client,6,3,de,140,37,66,de,2015-12-01T10:17:32Z,rstats|rmarkdown
+931901065,1055332218128814080,2018-10-25T05:36:22Z,"What's good #rstats, how would y'all describe a reporting / viz focused position for hiring? Not a senior pos but beyond student assistant.",Twitter for Android,2,1,en,263,294,980,en,2012-11-07T12:01:59Z,rstats
+973879232722956288,1055325458852536321,2018-10-25T05:09:31Z,What does #CyberSecurity look like in an #IoT &amp; #Mobile World? It's complicated... #Infographic #infosec #Analytics #Security #CyberAware #BigData #DeepLearning #KSQL #MQTT #Sensor #Analytics #MachineLearning #DataScience #AI #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS M https://t.co/7NdHb7DOOS,Twitter Web Client,3,9,en,5610,6170,10526,en,2018-03-14T11:11:17Z,CyberSecurity|IoT|Mobile|Infographic|infosec|Analytics|Security|CyberAware|BigData|DeepLearning|KSQL|MQTT|Sensor|Analytics|MachineLearning|DataScience|AI|IIoT|RStats|TensorFlow|Java|JavaScript|ReactJS
+87081300,1055307985797271552,2018-10-25T04:00:05Z,"tomorrow, wearing a du rag and playing mr boombastic when i start my workshop on comp research tools
+
+#lakeshow #rstats",Twitter for Android,1,1,en,137,199,5453,en,2009-11-03T01:37:40Z,lakeshow|rstats
+189679765,1055298614732349440,2018-10-25T03:22:50Z,"Another reason to pick back up #rstats after focusing on #Python 🐍 more recently.
+
+Don't use either regularly to get great, but like to familiarize with the tools and tech I encourage others in and look for in new hires. https://t.co/LkgH8XLmCY",Twitter for Android,1,1,en,427,2186,1322,en,2010-09-11T23:02:51Z,rstats|Python
+15737390,1055296533384585216,2018-10-25T03:14:34Z,Just became a xaringan fan!! Thanks @xieyihui #rstats,TweetDeck,1,1,en,688,523,1770,en,2008-08-05T15:35:33Z,rstats
+818903275,1055292567540195328,2018-10-25T02:58:49Z,#rstats @bioconductor https://t.co/QtW53uPI8T,Twitter for iPhone,0,1,und,885,523,4472,en,2012-09-12T05:28:21Z,rstats
+34091991,1055291425586364416,2018-10-25T02:54:16Z,#rstats  the #GASP event has been informative so far. Ready for day two. https://t.co/Mt5jxOvel8 https://t.co/z5YupjfmUY,Twitter for iPhone,1,1,en,56,152,749,en,2009-04-21T23:36:36Z,rstats|GASP
+194162292,1055287791507161088,2018-10-25T02:39:50Z,@joelmcglothlin @ZarahPattison I also highly recommend this #rstats book as is has lots of step-by-step worked examples https://t.co/odHoWv9GLN https://t.co/7aSmDy367e,Twitter Web Client,10,2,en,1348,2811,6458,en,2010-09-23T15:42:12Z,rstats
+543981616,1055286410867920896,2018-10-25T02:34:21Z,One of my favorite #rstats packages. https://t.co/TLcWOpMF3G,Twitter for iPhone,1,1,en,575,2048,1196,en,2012-04-03T04:50:31Z,rstats
+3230388598,1055280033294618624,2018-10-25T02:09:00Z,"✂️ Got snippets? Keep 'em organized…
+📦 ""snippr: Manage, share, and install RStudio code snippets"" by @drob
+https://t.co/G266TRbuSM #rstats",Buffer,50,19,en,30284,2891,31063,en,2015-05-03T11:44:15Z,rstats
