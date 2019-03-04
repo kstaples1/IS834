@@ -5,5 +5,5 @@ import numpy as np
 #%matplotlib inline
 img = mpimg.imread("/Users/Kyle_Staples/Documents/GitHub/IS834/Test/xSixth_Floor.png")
 implot = plt.imshow(img)
-plt.rcParams['figure.dpi'] = 150
 plt.scatter(x = [500,1000], y = [800,800], c='r', s=40)
+plt.show()
