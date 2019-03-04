@@ -1,20 +1,9 @@
-import pandas as pd
-import numpy as np
-
-#to plot within notebook
 import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+import matplotlib as pt
+import numpy as np
 #%matplotlib inline
-
-#setting figure size
-from matplotlib.pylab import rcParams
-rcParams['figure.figsize'] = 20,10
-
-#for normalizing data
-from sklearn.preprocessing import MinMaxScaler
-scaler = MinMaxScaler(feature_range=(0, 1))
-
-#read the file
-df = pd.read_csv('NSE-TATAGLOBAL(1).csv')
-
-#print the head
-df.head()
+img = mpimg.imread("/Users/Kyle_Staples/Documents/GitHub/IS834/Test/xSixth_Floor.png")
+implot = plt.imshow(img)
+plt.rcParams['figure.dpi'] = 150
+plt.scatter(x = [500,1000], y = [800,800], c='r', s=40)
