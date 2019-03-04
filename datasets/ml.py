@@ -3,7 +3,7 @@ import numpy as np
 
 #to plot within notebook
 import matplotlib.pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 
 #setting figure size
 from matplotlib.pylab import rcParams

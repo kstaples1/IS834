@@ -1,6 +1,27 @@
+import numpy as np
+import pandas as pd
+import requests
+import matplotlib.pyplot as plt
+from bs4 import BeautifulSoup
+#scrape elements
+COLUMNS = ['Rank', 'Player', 'MMR', 'Games']
+dataframes = []
+i = 1
+url = "https://r6.tracker.network/leaderboards/pvp-season/pc/Mmr?page={}&region=-1&season=12"
+while(i<10):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, "html.parser")
+    table = soup.find("table") # Find the "table" tag in the page
+    rows = table.find_all("tr") # Find all the "tr" tags in the table
+    cy_data = []
+    for row in rows:
+        cells = row.find_all("td") #  Find all the "td" tags in each row
+        cells = cells[0:4] # Select the correct columns
+        cy_data.append([cell.text for cell in cells]) # For each "td" tag, get the text inside it
 
-a = "Dear {}, \n\nThank you for taking the time to reach out. Attached below is my schedule. Please create a new event with me and then confirm via email or via text 1 hour before the meeting. If you have any questions feel free to ask. I look forward to meeting with you. \n\nSincerely, \n\nKyle Staples \n\nhttps://calendar.google.com/calendar/embed?src=kyle.staples97%40gmail.com&ctz=America%2FNew_York \n"
-list = ["Charisma", "Jay", "Rebecca", "Kayla", "Ethan", "Richard", "Tony", "Henry"]
+    dataframes.append(pd.DataFrame(cy_data, columns=COLUMNS).drop(0, axis=0))
+    i= i+1;
+    print(i)
+data = pd.concat(dataframes)
 
-for name in list:
-    print(a.format(name))
+print(data.head())
